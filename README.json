@@ -1,0 +1,2392 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serverless DuckDB as API",
+          "description": "Use DuckDB as API with Amazon API Gateway and AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-04T22:34:56Z",
+            "owner": "tobilg",
+            "repo": "serverless-duckdb",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless DuckDB over S3",
+          "description": "Running DuckDB over a data lake on S3 using lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-10T15:16:41Z",
+            "owner": "BauplanLabs",
+            "repo": "quack-reduce",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckERD CLI",
+          "description": "A CLI tool to create an ER Diagram from DuckDB database files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T08:19:40Z",
+            "owner": "tobilg",
+            "repo": "duckerd",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB AWS Lambda layer (Node.js)",
+          "description": "Run DuckDB in AWS Lambda functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T14:59:21Z",
+            "owner": "tobilg",
+            "repo": "duckdb-nodejs-layer",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome DuckLake",
+          "description": "A curated list of awesome DuckLake tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-20T23:43:36Z",
+            "owner": "esadek",
+            "repo": "awesome-ducklake",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Parquet Repartitioner",
+          "description": "Use DuckDB to repartition data in S3-based Data Lakes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-30T10:22:54Z",
+            "owner": "tobilg",
+            "repo": "serverless-parquet-repartitioner",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-docker",
+          "description": "Official Docker image for the DuckDB CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-02T12:31:05Z",
+            "owner": "duckdb",
+            "repo": "duckdb-docker",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB AWS Lambda layer (Python)",
+          "description": "Run DuckDB in AWS Lambda functions using Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:00:58Z",
+            "owner": "bengeois",
+            "repo": "aws-layer-duckdb-python",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-nf",
+          "description": "Example uses of DuckDB with Nextflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nextflow",
+            "last_commit": "2025-03-27T16:23:37Z",
+            "owner": "edmundmiller",
+            "repo": "duckdb-nf",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB setup",
+          "description": "GitHub Action to install DuckDB in CI.",
+          "children": []
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T15:04:05Z",
+            "owner": "duckdb",
+            "repo": "duckdb-rs",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T12:57:20Z",
+            "owner": "Giorgi",
+            "repo": "DuckDB.NET",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:04:49Z",
+            "owner": "duckdb",
+            "repo": "duckdb-go",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T06:25:39Z",
+            "owner": "suketa",
+            "repo": "ruby-duckdb",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-02T23:04:54Z",
+            "owner": "satur-io",
+            "repo": "duckdb-php",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-11-24T16:50:14Z",
+            "owner": "TigerEyeLabs",
+            "repo": "duckdb-dart",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerShell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-10T00:07:32Z",
+            "owner": "dfinke",
+            "repo": "PSDuckDB",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Lisp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-29T16:29:19Z",
+            "owner": "ak-coram",
+            "repo": "cl-duckdb",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-04-24T18:09:02Z",
+            "owner": "Tritlo",
+            "repo": "duckdb-haskell",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP (PDO)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T16:24:58Z",
+            "owner": "thomas-0816",
+            "repo": "pdo-duckdb-php",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Client APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQLGlot",
+          "description": "Python transpiler that translates between 24 different SQL dialects including DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:31:02Z",
+            "owner": "tobymao",
+            "repo": "sqlglot",
+            "stars": 9524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLMesh",
+          "description": "A next-generation data transformation and modeling framework with support for DuckDB connections for state, transformations & running unit tests locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:29:03Z",
+            "owner": "SQLMesh",
+            "repo": "sqlmesh",
+            "stars": 3243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spice.ai",
+          "description": "A unified SQL query interface and portable runtime to locally materialize (using an embedded DuckDB), accelerate, and query datasets from any database, data warehouse, or data lake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:52:21Z",
+            "owner": "spiceai",
+            "repo": "spiceai",
+            "stars": 3064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rill Data",
+          "description": "Tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:51:56Z",
+            "owner": "rilldata",
+            "repo": "rill",
+            "stars": 2804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amphi ETL",
+          "description": "Low-code data pipelines for structured and unstructured data. SQL transformations are powered by DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T05:19:04Z",
+            "owner": "amphi-ai",
+            "repo": "amphi-etl",
+            "stars": 1385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shaper",
+          "description": "Open-source SQL-driven data dashboards, powering Taleshape, built on DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T10:30:16Z",
+            "owner": "taleshape-com",
+            "repo": "shaper",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duckle",
+          "description": "Local-first visual ETL/ELT studio. Drag sources, transforms and sinks onto a canvas; it compiles to plain DuckDB SQL and runs entirely on DuckDB. Open source desktop app, with a built-in MCP server for generating and running pipelines from natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T05:12:00Z",
+            "owner": "slothflowlabs",
+            "repo": "duckle",
+            "stars": 1022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arc",
+          "description": "Time-series data warehouse built on DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T18:35:32Z",
+            "owner": "Basekick-Labs",
+            "repo": "arc",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huey",
+          "description": "Blazing-fast & intuitive pivot tables on Parquet, CSV, JSON files and DuckDB tables in the browser based on DuckDB-Wasm. open-source (MIT). Zero install!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T03:09:52Z",
+            "owner": "rpbouman",
+            "repo": "huey",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailpipe",
+          "description": "An open-source SIEM for instant log insights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T02:17:13Z",
+            "owner": "turbot",
+            "repo": "tailpipe",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sloggo",
+          "description": "Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T20:36:30Z",
+            "owner": "phare",
+            "repo": "sloggo",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix Analytics",
+          "description": "Plug and play analytics for Phoenix applications, powered by DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-14T16:29:19Z",
+            "owner": "lalabuy948",
+            "repo": "PhoenixAnalytics",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quackpipe",
+          "description": "Serverless OLAP API/UI built on top of DuckDB with basic ClickHouse API compatibility and MotherDuck support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-20T12:01:02Z",
+            "owner": "gigapi",
+            "repo": "gigapi",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yato",
+          "description": "The smallest DuckDB SQL orchestrator on Earth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-22T14:41:28Z",
+            "owner": "Bl3f",
+            "repo": "yato",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniverSQL",
+          "description": "An implementation of Snowflake API, enables running queries on Snowflake tables locally with DuckDB without a running warehouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-20T22:30:45Z",
+            "owner": "buremba",
+            "repo": "universql",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb.yazi",
+          "description": "Preview csv/tsv, json, and Parquet files in the yazi file manager using duckdb. View the raw data, or a \"summarized\" view with data-types, min, max, avg etc. for all columns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-05-29T07:41:08Z",
+            "owner": "wylie102",
+            "repo": "duckdb.yazi",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DatalakeStudio",
+          "description": "Load, explore, transform your datasets and expose them via API. Integration with external APIs, S3, PostgreSQL and ChatGPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-30T08:15:19Z",
+            "owner": "javitorres",
+            "repo": "datalakeStudio",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HitKeep",
+          "description": "Open-source, privacy-first web analytics for traffic, funnels, ecommerce, Search Console, and AI visibility. Runs as a single Go binary with embedded DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T05:07:05Z",
+            "owner": "PascaleBeier",
+            "repo": "hitkeep",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whereabouts",
+          "description": "Fast, accurate, open-source geocoding in Python, using DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T00:34:59Z",
+            "owner": "ajl2718",
+            "repo": "whereabouts",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReportBurster",
+          "description": "Business Intelligence Done Right - ReportBurster uses DuckDB as its in-process analytics database engine, and for larger workloads, supports ClickHouse too.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:49:41Z",
+            "owner": "flowkraft",
+            "repo": "datapallas",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETLX",
+          "description": "DuckDB-powered ETL tool written in Go, inspired by evidence.dev's syntax. It uses a structured Markdown config where heading levels define nested blocks, yaml code blocks specify metadata, and sql code blocks handle data interactions. Enables clean, code-light orchestration with minimal setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T19:55:34Z",
+            "owner": "realdatadriven",
+            "repo": "etlx",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADPivot",
+          "description": "No code tool built on top of DuckDB-Wasm and Pyodide that helps build pivot tables from databases of any size with a few clicks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T00:26:53Z",
+            "owner": "danilo-css",
+            "repo": "analytics-data-pivot",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB OPFS Todo List App",
+          "description": "A fully-functional todo list application that demonstrates DuckDB WASM OPFS (Origin Private File System) persistence using a pure functional programming approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T11:02:46Z",
+            "owner": "markwylde",
+            "repo": "duckdb-opfs-todo-list",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connections.duckdb",
+          "description": "Play the New York Times Connections Puzzle with DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T02:54:57Z",
+            "owner": "tomjakubowski",
+            "repo": "connections.duckdb",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geol",
+          "description": "A command line tool to efficiently show end-of-life dates for a number of products in your terminal using the API, makes it possible to export the whole database as a fully featured DuckDB file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T04:51:34Z",
+            "owner": "opt-nc",
+            "repo": "geol",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataCharter",
+          "description": "Local, contract-governed data explorer. Federates files and databases (Postgres, Snowflake, BigQuery, Excel, and more) through DuckDB — SQL editor, charts, profiling — then hands AI agents a PII-masked, read-only query surface over MCP. Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:51:46Z",
+            "owner": "datacharter",
+            "repo": "datacharter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataSpoc Lens",
+          "description": "Virtual warehouse over cloud Parquet. SQL shell, Jupyter/Marimo notebooks, AI natural language queries, and local cache — all powered by DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T00:27:58Z",
+            "owner": "dataspoclab",
+            "repo": "dataspoc-lens",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnkaFlow",
+          "description": "YAML-based data pipeline framework that runs both locally and fully in-browser designed for data engineers, ML teams, and SaaS developers who need flexible, SQL-powered pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:02:10Z",
+            "owner": "targetta",
+            "repo": "ankaflow",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pondview",
+          "description": "Open-source, DuckDB-powered BI workspace for AI-assisted analysis, SQL, charts, and dashboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T19:24:21Z",
+            "owner": "paulmupeters",
+            "repo": "pondview-bi",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools Powered by DuckDB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "smallpond",
+          "description": "A distributed data processing framework by DeepSeek built on DuckDB and 3FS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-05T18:23:54Z",
+            "owner": "deepseek-ai",
+            "repo": "smallpond",
+            "stars": 4979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Splink",
+          "description": "A free Python library for fast, accurate data deduplication and record linkage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:34:15Z",
+            "owner": "moj-analytical-services",
+            "repo": "splink",
+            "stars": 2336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fugue",
+          "description": "A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T21:49:03Z",
+            "owner": "fugue-project",
+            "repo": "fugue",
+            "stars": 2170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Narwhals",
+          "description": "Lightweight and extensible compatibility layer between dataframe libraries, supports DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:55:27Z",
+            "owner": "narwhals-dev",
+            "repo": "narwhals",
+            "stars": 1695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BemiDB",
+          "description": "PostgreSQL read replica optimized for analytics, using DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-07T18:55:38Z",
+            "owner": "BemiHQ",
+            "repo": "BemiDB",
+            "stars": 1530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLFrame",
+          "description": "Implements the PySpark DataFrame API in order to enable running transformation pipelines directly on database engines such as DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:14:17Z",
+            "owner": "eakmanrq",
+            "repo": "sqlframe",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb_fdw",
+          "description": "DuckDB Foreign Data Wrapper for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-29T08:36:57Z",
+            "owner": "alitrack",
+            "repo": "duckdb_fdw",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuackOSM",
+          "description": "A Python library for downloading and transforming raw OpenStreetMap data into GeoParquet files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:53:47Z",
+            "owner": "kraina-ai",
+            "repo": "quackosm",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple-data-analysis",
+          "description": "Easy-to-use and high-performance JavaScript library for data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:54:47Z",
+            "owner": "nshiab",
+            "repo": "simple-data-analysis",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flapi",
+          "description": "An API Framework that heavily relies on the power of DuckDB and DuckDB extensions. Ready to build performant and cost-efficient APIs on top of BigQuery or Snowflake for AI Agents and Data Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T09:42:54Z",
+            "owner": "DataZooDE",
+            "repo": "flapi",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsqltranspiler",
+          "description": "Rewrite BigQuery, Redshift, Snowflake and Databricks queries into DuckDB-compatible SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-14T18:21:09Z",
+            "owner": "starlake-ai",
+            "repo": "jsqltranspiler",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snowflake Emulator",
+          "description": "A lightweight Snowflake emulator built with Go and DuckDB for local development and testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T08:11:43Z",
+            "owner": "nnnkkk7",
+            "repo": "snowflake-emulator",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jetblack/duckdb-react",
+          "description": "A context manager for React and DuckDB-Wasm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-09T07:35:01Z",
+            "owner": "rob-blackbourn",
+            "repo": "jetblack-duckdb-react",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB.EFCoreProvider",
+          "description": "Entity Framework Core provider for DuckDB and DuckLake, with LINQ, writes, migrations, bulk ingestion, and Parquet-backed tiered storage for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T07:28:36Z",
+            "owner": "skuirrels",
+            "repo": "DuckDB.EFCoreProvider",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleasharp.DB.DuckDB",
+          "description": "Lightweight DuckDB query-building client for C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-20T16:13:43Z",
+            "owner": "TraberSoftware",
+            "repo": "Unleasharp.DB.DuckDB",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omilayers",
+          "description": "A Python library for efficient data management that wraps the APIs of SQLite and DuckDB and offers a high-level interface analytical tasks that involve fast storage, processing and retrieval of data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-05T22:13:39Z",
+            "owner": "dkioroglou",
+            "repo": "omilayers",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries Powered by DuckDB"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DuckDB Clients and UIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Preswald",
+          "description": "WASM packager for Python-based interactive data apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T23:01:11Z",
+            "owner": "StructuredLabs",
+            "repo": "preswald",
+            "stars": 4278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medama",
+          "description": "Self-hostable, privacy-focused website analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T22:06:37Z",
+            "owner": "medama-io",
+            "repo": "medama",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckQuery",
+          "description": "Open-source visual SQL workbench to query local files (CSV/Excel/Parquet/JSON) and remote databases (MySQL/PostgreSQL) in one cross-source JOIN, plus AI text-to-SQL. Browser demo runs on DuckDB-Wasm; the full version self-hosts via Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T07:10:56Z",
+            "owner": "Chenkeliang",
+            "repo": "duckdb-query",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joinery",
+          "description": "Privacy-first local data analytics with a modern SQL editor, multi-format support (CSV, Excel, JSON, Parquet), and parameterized saved queries. Available as browser app and Tauri desktop client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-04T03:35:07Z",
+            "owner": "joinery-labs",
+            "repo": "joinery",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Web Clients (WebAssembly)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rainfrog",
+          "description": "A database TUI with experimental support for DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T06:03:45Z",
+            "owner": "achristmascarl",
+            "repo": "rainfrog",
+            "stars": 5269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duckling",
+          "description": "A fast viewer for CSV/Parquet files and DuckDB/SQLite, based on Tauri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:15:37Z",
+            "owner": "l1xnan",
+            "repo": "duckling",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsql",
+          "description": "CLI for DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, SQLite3 and SQL Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T20:14:57Z",
+            "owner": "theseus-rs",
+            "repo": "rsql",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB SQL Tools",
+          "description": "Free DuckDB SQL Tools for VS Code IDE. Premium version available with advanced features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-14T16:08:17Z",
+            "owner": "RandomFractals",
+            "repo": "pro-data-tools",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuitab",
+          "description": "A Rust TUI for fast, in-depth analytics on large datasets (CSV, JSON, Parquet, Excel, SQLite) powered by DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:19:48Z",
+            "owner": "denisotree",
+            "repo": "tuitab",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmoxSQL",
+          "description": "The Modern Codex for Local Data Analysis. A high-performance, local-first IDE built specifically for DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T15:45:53Z",
+            "owner": "DSandovalFlavio",
+            "repo": "AmoxSQL",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "SQL Clients and IDE that Support DuckDB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "msgvault",
+          "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:54:04Z",
+            "owner": "kenn-io",
+            "repo": "msgvault",
+            "stars": 2004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NBA Monte Carlo",
+          "description": "Monte Carlo simulation of the NBA season, leveraging Meltano, dbt, DuckDB and Evidence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T21:32:09Z",
+            "owner": "matsonj",
+            "repo": "nba-monte-carlo",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Curated football datasets from Transfermarkt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T07:11:08Z",
+            "owner": "dcaribou",
+            "repo": "transfermarkt-datasets",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datadex",
+          "description": "Open-source and local-friendly data platform to collaborate on Open Data using DuckDB, Dagster, dbt, and Quarto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-06T14:43:36Z",
+            "owner": "datonic",
+            "repo": "datadex",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ducklings",
+          "description": "A minimal DuckDB WASM build for browsers and serverless environments like Cloudflare Workers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T13:04:38Z",
+            "owner": "tobilg",
+            "repo": "ducklings",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-embedding-search",
+          "description": "A search engine for DuckDB that uses embedding vectors to find similar documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T06:49:45Z",
+            "owner": "patricktrainer",
+            "repo": "duckdb-embedding-search",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-claude-slack",
+          "description": "A Slack data analysis agent powered by DuckDB and Claude Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-10T03:29:54Z",
+            "owner": "sidequery",
+            "repo": "duckdb-claude-slack",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyStack't",
+          "description": "Python package that supports data preparation for object-centric process mining.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T20:14:28Z",
+            "owner": "LienBosmans",
+            "repo": "pystackt",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datagenerator2",
+          "description": "Generates random data, allowing to define dependencies between individual fields and varying/definable distribution of field values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-01T18:41:31Z",
+            "owner": "uwegeercken",
+            "repo": "datagenerator2",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overture Places UA",
+          "description": "Extract all Ukrainian POIs from Overture Maps releases into CSV or Parquet with a single DuckDB query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-05T16:48:01Z",
+            "owner": "xtrustinfo",
+            "repo": "overture-places-ua",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Projects Powered by DuckDB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "The platform for customizing AI from enterprise data. MindsDB integrates with DuckDB, making data from DuckDB accessible to a diverse range of AI/ML models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T06:21:30Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manifold-sql (DuckDB for Java)",
+          "description": "Use native DuckDB SQL of any complexity directly & type-safely in Java source with comprehensive IntelliJ support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T17:13:03Z",
+            "owner": "manifold-systems",
+            "repo": "manifold",
+            "stars": 2760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbt-duckdb",
+          "description": "DuckDB dbt adapter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:50:16Z",
+            "owner": "duckdb",
+            "repo": "dbt-duckdb",
+            "stars": 1332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLFlow",
+          "description": "Enables SQL-based stream processing, powered by DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T21:50:25Z",
+            "owner": "turbolytics",
+            "repo": "sql-flow",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metabase_duckdb_driver",
+          "description": "Metabase DuckDB Driver shipped as 3rd party plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-12T14:48:25Z",
+            "owner": "motherduckdb",
+            "repo": "metabase_duckdb_driver",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kwack",
+          "description": "In-Memory Analytics for Kafka using DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-16T08:36:45Z",
+            "owner": "rayokota",
+            "repo": "kwack",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xlDuckDb",
+          "description": "Excel addin to run DuckDB queries in Excel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T07:48:23Z",
+            "owner": "RusselWebber",
+            "repo": "xlDuckDb",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidemantic",
+          "description": "A semantic layer with DuckDB integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:29:07Z",
+            "owner": "sidequery",
+            "repo": "sidemantic",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-power-query-connector",
+          "description": "DuckDB Power Query Custom Connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Power Query",
+            "last_commit": "2026-07-29T14:51:16Z",
+            "owner": "motherduckdb",
+            "repo": "duckdb-power-query-connector",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrionBelt Semantic Layer",
+          "description": "Open-source semantic sidecar that compiles YAML semantic models to optimized SQL across 8 engines including DuckDB. Ships with an driver, REST + Arrow Flight SQL + Postgres wire surfaces, and a baked-in DuckDB quickstart on Colab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:55:57Z",
+            "owner": "ralforion",
+            "repo": "orionbelt-semantic-layer",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSDuckDB",
+          "description": "A PowerShell module for DuckDB integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-10T00:07:32Z",
+            "owner": "dfinke",
+            "repo": "PSDuckDB",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nf-sqldb",
+          "description": "This plugin provides support for interacting with SQL databases in Nextflow scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-08-10T22:17:00Z",
+            "owner": "nextflow-io",
+            "repo": "nf-sqldb",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite2duckdb",
+          "description": "A CLI tool to convert SQLite database to DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-23T22:55:53Z",
+            "owner": "dridk",
+            "repo": "sqlite2duckdb",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-tableau-connector",
+          "description": "DuckDB Tableau connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:38:50Z",
+            "owner": "motherduckdb",
+            "repo": "duckdb-tableau-connector",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura DuckDB Connector",
+          "description": "Allows connecting to a DuckDB database or a MotherDuck-hosted DuckDB database through a GraphQL API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-12T00:59:06Z",
+            "owner": "hasura",
+            "repo": "ndc-duckdb",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-teradata",
+          "description": "Teradata connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-17T08:23:18Z",
+            "owner": "duckdb",
+            "repo": "duckdb-teradata",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB VBA",
+          "description": "Excel/VBA integration for DuckDB using the native C API through a lightweight DLL bridge. Supports Range/Array ingestion, dictionary lookups, Parquet/CSV/JSON workflows, SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-06-11T22:58:33Z",
+            "owner": "EtienneLenoir",
+            "repo": "duckdb-vba",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AliSQL",
+          "description": "A MySQL branch originated from Alibaba Group. Integrates DuckDB as a native storage engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-18T05:33:44Z",
+            "owner": "alibaba",
+            "repo": "AliSQL",
+            "stars": 5868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_duckdb",
+          "description": "DuckDB-powered PostgreSQL for high-performance apps & analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T12:03:01Z",
+            "owner": "duckdb",
+            "repo": "pg_duckdb",
+            "stars": 3188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_mooncake",
+          "description": "A PostgreSQL extension that adds native column store tables with DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-31T05:53:29Z",
+            "owner": "Mooncake-Labs",
+            "repo": "pg_mooncake",
+            "stars": 1999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_lake",
+          "description": "integrates Iceberg and data lake files into Postgres. Uses DuckDB to execute queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:03:43Z",
+            "owner": "Snowflake-Labs",
+            "repo": "pg_lake",
+            "stars": 1609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyDuck Server",
+          "description": "A server wrapping DuckDB with MySQL and PostgreSQL wire protocol support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-17T09:04:02Z",
+            "owner": "apecloud",
+            "repo": "myduckserver",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_analytics",
+          "description": "PostgreSQL extension embedding DuckDB-in-PostgreSQL for fast on-disk and remote object storage analytics from Postgres. Built as a Foreign Data Wrapper with full query pushdown to DuckDB. Integrates easily with ParadeDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-03-19T19:27:38Z",
+            "owner": "paradedb",
+            "repo": "pg_analytics",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GizmoSQL - Arrow Flight SQL Server",
+          "description": "A C++ implementation of the Arrow Flight SQL protocol that runs in a client-server setup with DuckDB or SQLite as backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T17:19:01Z",
+            "owner": "gizmodata",
+            "repo": "gizmosql",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Porter",
+          "description": "A Go-based implementation of a DuckDB Arrow Flight SQL Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T01:29:52Z",
+            "owner": "TFMV",
+            "repo": "porter",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Client-Server Setups"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "Official DuckDB extensions, which can installed via .",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For DuckLake support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:27:08Z",
+            "owner": "duckdb",
+            "repo": "ducklake",
+            "stars": 2913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For reading Iceberg tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:19:45Z",
+            "owner": "duckdb",
+            "repo": "duckdb-iceberg",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For Delta Lake support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:36:37Z",
+            "owner": "duckdb",
+            "repo": "duckdb-delta",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For using the Azure Blob storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:20:48Z",
+            "owner": "duckdb",
+            "repo": "duckdb-azure",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For handling AWS credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:42:49Z",
+            "owner": "duckdb",
+            "repo": "duckdb-aws",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A zero-copy data integration between Apache Arrow and DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-12T14:36:24Z",
+            "owner": "duckdb",
+            "repo": "arrow",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For reading Avro files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T12:24:05Z",
+            "owner": "duckdb",
+            "repo": "duckdb-avro",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "For storing and handling IPv4 and IPv6 Internet addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-20T22:54:12Z",
+            "owner": "duckdb",
+            "repo": "duckdb-inet",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Core Extensions"
+    },
+    {
+      "description": "Community-contributed DuckDB extensions, which can be installed via .",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Add supports for SQL/PGQ (Property Graph Queries) introduced in the SQL:2023 standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:13:03Z",
+            "owner": "cwida",
+            "repo": "duckpgq-extension",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Read and write Google Sheets using SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-21T04:11:04Z",
+            "owner": "evidence-dev",
+            "repo": "duckdb_gsheets",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Run PRQL commands directly within DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-28T11:18:16Z",
+            "owner": "ywelsch",
+            "repo": "duckdb-prql",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "DuckDB HTTP API Server and Query Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T22:19:21Z",
+            "owner": "Query-farm",
+            "repo": "httpserver",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Adds support for the H3 discrete global grid system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T18:16:17Z",
+            "owner": "isaacbrodsky",
+            "repo": "h3-duckdb",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Integrates DuckDB with Google BigQuery, allowing direct querying and management of BigQuery datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T12:09:53Z",
+            "owner": "hafenkran",
+            "repo": "duckdb-bigquery",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A set of aggregation functions and data scanners on financial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-04T14:27:57Z",
+            "owner": "pdet",
+            "repo": "Scrooge-McDuck",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A DuckDB extension for graph data analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T17:34:19Z",
+            "owner": "CogitatorTech",
+            "repo": "onager",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Adds a read caching layer to duckdb filesystem to improve query performance and reduce egress cost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T22:55:34Z",
+            "owner": "dentiny",
+            "repo": "duck-read-cache-fs",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A DuckDB extension for in-database inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-22T14:50:26Z",
+            "owner": "CogitatorTech",
+            "repo": "infera",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Allows shell commands to be used for input and output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T04:27:09Z",
+            "owner": "Query-farm",
+            "repo": "shellfs",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "ClickHouse SQL Dialect macros for DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-18T19:49:47Z",
+            "owner": "Query-farm",
+            "repo": "clickhouse-sql",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Fully local data canvas and dashboarding app within DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T20:26:31Z",
+            "owner": "gropaul",
+            "repo": "dash",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Linearization/Delinearization, Z-Order, Hilbert and Morton Curves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T04:27:01Z",
+            "owner": "Query-farm",
+            "repo": "lindel",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Distributed execution for DuckDB queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-10T09:36:00Z",
+            "owner": "dentiny",
+            "repo": "duckdb-distributed-execution",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Implements Measures in SQL paper as a DuckDB extension for centralized metric definitions / en embedded semantic layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-03T19:43:26Z",
+            "owner": "sidequery",
+            "repo": "yardstick",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Embeds AI agents such as Claude Code inside of DuckDB via Agent Client Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-12-11T03:36:46Z",
+            "owner": "sidequery",
+            "repo": "duckdb-acp",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Statistics for tabular and clinical data: descriptive tables (), linear models with robust/clustered standard errors, meta-analysis, bootstrap, and a grammar-of-graphics clause that turns queries into Vega-Lite charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T19:42:41Z",
+            "owner": "KoliStat",
+            "repo": "the-stats-duck",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Parsing, extracting, and analyzing domains, URIs, and paths with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T07:00:30Z",
+            "owner": "hatamiarash7",
+            "repo": "duckdb-netquack",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Integrates DuckDB with DeepSeek 3FS distributed file system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-16T08:30:34Z",
+            "owner": "open3fs",
+            "repo": "duckdb-3fs",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Navigate and explore the local filesystem using SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-01T21:02:13Z",
+            "owner": "gropaul",
+            "repo": "hostFS",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Cryptographic hash functions and HMAC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T04:26:47Z",
+            "owner": "Query-farm",
+            "repo": "crypto",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Performs fuzzy string matching for autocompletion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T14:27:13Z",
+            "owner": "Query-farm",
+            "repo": "fuzzycomplete",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Evaluates the Rhai scripting language as part of SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T04:26:51Z",
+            "owner": "Query-farm",
+            "repo": "evalexpr_rhai",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "ULID data type for DuckDB. A ULID is similar to a UUID except that it also contains a timestamp component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-09T09:35:50Z",
+            "owner": "Maxxen",
+            "repo": "duckdb_ulid",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Query Elasticsearch indices directly using SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-29T13:01:51Z",
+            "owner": "tlinhart",
+            "repo": "duckdb-elasticsearch",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A DuckDB extension for working with Kaggle datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-22T14:49:44Z",
+            "owner": "CogitatorTech",
+            "repo": "gaggle",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "I/O observability for DuckDB filesystems with latency statistics and external file cache access insights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T19:13:57Z",
+            "owner": "dentiny",
+            "repo": "duckdb-filesystem-observability",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Enhanced HTTP file system with connection pooling, HTTP/2 support, and asynchronous I/O operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T18:56:13Z",
+            "owner": "dentiny",
+            "repo": "duckdb-curl-filesystem",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Read Microsoft PST files in-place with rich schemas for emails, contacts, appointments, tasks, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T16:43:10Z",
+            "owner": "intellekthq",
+            "repo": "duckdb-pst",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Preloads table data blocks into the buffer pool or OS page cache, inspired by PostgreSQL's pg_prewarm extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T05:02:52Z",
+            "owner": "dentiny",
+            "repo": "duckdb-cache-prewarm",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Read block-indexed PFC-compressed JSONL logs with timestamp filtering — 25% smaller than gzip with minimal S3 egress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-19T17:32:55Z",
+            "owner": "ImpossibleForge",
+            "repo": "pfc-duckdb",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Community Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kùzu",
+          "description": "Scan DuckDB tables in Kùzu, an embeddable property graph database management system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-10-10T15:34:00Z",
+            "owner": "kuzudb",
+            "repo": "kuzu",
+            "stars": 4027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb_engine",
+          "description": "SQLAlchemy driver for DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:15:31Z",
+            "owner": "Mause",
+            "repo": "duckdb_engine",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlockMTL",
+          "description": "Integrate language model (LLM) capabilities directly into your queries and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T19:00:52Z",
+            "owner": "dais-polymtl",
+            "repo": "flock",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UC Catalog Extension",
+          "description": "Proof-of-concept extension combining the extension with Unity Catalog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:34:23Z",
+            "owner": "duckdb",
+            "repo": "unity_catalog",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-pytables",
+          "description": "DuckDB extension to allow running SQL on arbitrary data sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-03T21:05:34Z",
+            "owner": "MarkRoddy",
+            "repo": "duckdb-pytables",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ODBC Scanner DuckDB Extension",
+          "description": "DuckDB extension to read data directly from databases supporting the ODBC interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-04T22:49:50Z",
+            "owner": "rupurt",
+            "repo": "odbc-scanner-duckdb-extension",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-duckfs",
+          "description": "A Go library that mounts file systems as DuckDB virtual file systems, sandboxing all I/O through the Go runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-09T20:34:57Z",
+            "owner": "firetiger-oss",
+            "repo": "go-duckfs",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB.ExtensionKit",
+          "description": "Build native DuckDB extensions in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-09T20:06:22Z",
+            "owner": "Giorgi",
+            "repo": "DuckDB.ExtensionKit",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-extension-template-zig",
+          "description": "A Zig & Nix toolkit template for building extensions against multiple versions of DuckDB using Zig, C or C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2024-03-16T21:10:24Z",
+            "owner": "rupurt",
+            "repo": "duckdb-extension-template-zig",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb_protobuf",
+          "description": "Plugin for querying encoded protobuf messages (both sequences and individual messages per file).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-21T22:03:57Z",
+            "owner": "0xcaff",
+            "repo": "duckdb_protobuf",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPL Web",
+          "description": "ERPL Web is a DuckDB extension that connects API-based ecosystems via standard interfaces like OData, GraphQL, and REST.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:28:29Z",
+            "owner": "DataZooDE",
+            "repo": "erpl-web",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quack-zig",
+          "description": "The infamous DuckDB quack extension rewritten in C and built with Zig. Proof that you can develop DuckDB extensions without drowning in boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2025-10-07T22:32:45Z",
+            "owner": "mlafeldt",
+            "repo": "quack-zig",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckdb-jfr-extension",
+          "description": "DuckDB extension to read JFR (Java Flight Recorder) files directly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-15T14:36:58Z",
+            "owner": "ocadaruma",
+            "repo": "duckdb-jfr-extension",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "template-duckdb-extension-zig",
+          "description": "A template for developing DuckDB extensions in Zig using DuckDB's C API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-07-29T09:30:35Z",
+            "owner": "habedi",
+            "repo": "template-duckdb-extension-zig",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Other Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:56.911Z",
+    "original_repository": "davidgasquez/awesome-duckdb",
+    "original_repository_sha": "009e09359b69ad323fa8757a873e2db4c86e5658",
+    "enhanced_repository": "enhansome/enhansome-duckdb",
+    "enhanced_repository_description": null,
+    "title": "Awesome DuckDB with stars"
+  }
+}
