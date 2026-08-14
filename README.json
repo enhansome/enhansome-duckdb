@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-26T12:57:20Z",
+            "last_commit": "2026-08-14T20:11:26Z",
             "owner": "Giorgi",
             "repo": "DuckDB.NET",
             "stars": 695
@@ -191,7 +191,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T06:25:39Z",
+            "last_commit": "2026-08-14T01:18:09Z",
             "owner": "suketa",
             "repo": "ruby-duckdb",
             "stars": 255
@@ -250,7 +250,7 @@
             "last_commit": "2026-07-29T16:29:19Z",
             "owner": "ak-coram",
             "repo": "cl-duckdb",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:40:33Z",
+            "last_commit": "2026-08-14T18:10:44Z",
             "owner": "tobymao",
             "repo": "sqlglot",
-            "stars": 9526
+            "stars": 9529
           }
         },
         {
@@ -323,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T21:33:22Z",
+            "last_commit": "2026-08-14T20:55:30Z",
             "owner": "spiceai",
             "repo": "spiceai",
-            "stars": 3064
+            "stars": 3065
           }
         },
         {
@@ -337,10 +337,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T15:51:56Z",
+            "last_commit": "2026-08-14T18:41:08Z",
             "owner": "rilldata",
             "repo": "rill",
-            "stars": 2808
+            "stars": 2809
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-23T05:19:04Z",
             "owner": "amphi-ai",
             "repo": "amphi-etl",
-            "stars": 1388
+            "stars": 1391
           }
         },
         {
@@ -379,10 +379,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T05:12:00Z",
+            "last_commit": "2026-08-14T14:04:28Z",
             "owner": "slothflowlabs",
             "repo": "duckle",
-            "stars": 1014
+            "stars": 1019
           }
         },
         {
@@ -393,10 +393,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:03:23Z",
+            "last_commit": "2026-08-14T17:12:43Z",
             "owner": "Basekick-Labs",
             "repo": "arc",
-            "stars": 638
+            "stars": 639
           }
         },
         {
@@ -407,10 +407,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:56:17Z",
+            "last_commit": "2026-08-14T04:11:15Z",
             "owner": "rpbouman",
             "repo": "huey",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-05-13T20:36:30Z",
             "owner": "phare",
             "repo": "sloggo",
-            "stars": 459
+            "stars": 464
           }
         },
         {
@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T20:22:33Z",
+            "last_commit": "2026-08-14T20:58:03Z",
             "owner": "realdatadriven",
             "repo": "etlx",
             "stars": 51
@@ -631,7 +631,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T04:51:34Z",
+            "last_commit": "2026-08-14T21:13:21Z",
             "owner": "opt-nc",
             "repo": "geol",
             "stars": 12
@@ -710,7 +710,7 @@
             "last_commit": "2025-03-05T18:23:54Z",
             "owner": "deepseek-ai",
             "repo": "smallpond",
-            "stars": 4982
+            "stars": 4983
           }
         },
         {
@@ -724,7 +724,7 @@
             "last_commit": "2026-08-13T15:02:26Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2337
+            "stars": 2338
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2026-08-13T08:23:15Z",
             "owner": "narwhals-dev",
             "repo": "narwhals",
-            "stars": 1696
+            "stars": 1697
           }
         },
         {
@@ -777,7 +777,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:05:25Z",
+            "last_commit": "2026-08-14T18:55:33Z",
             "owner": "eakmanrq",
             "repo": "sqlframe",
             "stars": 528
@@ -822,7 +822,7 @@
             "last_commit": "2026-08-13T15:10:59Z",
             "owner": "nshiab",
             "repo": "simple-data-analysis",
-            "stars": 355
+            "stars": 356
           }
         },
         {
@@ -945,7 +945,7 @@
             "last_commit": "2026-06-11T23:01:11Z",
             "owner": "StructuredLabs",
             "repo": "preswald",
-            "stars": 4279
+            "stars": 4280
           }
         },
         {
@@ -1007,7 +1007,7 @@
             "last_commit": "2026-08-08T06:03:45Z",
             "owner": "achristmascarl",
             "repo": "rainfrog",
-            "stars": 5270
+            "stars": 5274
           }
         },
         {
@@ -1094,10 +1094,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:35:27Z",
+            "last_commit": "2026-08-14T20:29:56Z",
             "owner": "kenn-io",
             "repo": "msgvault",
-            "stars": 2004
+            "stars": 2007
           }
         },
         {
@@ -1240,10 +1240,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-12T06:21:30Z",
+            "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39561
+            "stars": 39569
           }
         },
         {
@@ -1254,10 +1254,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T17:13:03Z",
+            "last_commit": "2026-08-14T00:34:07Z",
             "owner": "manifold-systems",
             "repo": "manifold",
-            "stars": 2760
+            "stars": 2759
           }
         },
         {
@@ -1271,7 +1271,7 @@
             "last_commit": "2026-08-12T02:50:16Z",
             "owner": "duckdb",
             "repo": "dbt-duckdb",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -1296,7 +1296,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-13T16:15:19Z",
+            "last_commit": "2026-08-14T10:08:08Z",
             "owner": "motherduckdb",
             "repo": "metabase_duckdb_driver",
             "stars": 167
@@ -1324,7 +1324,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-24T07:48:23Z",
+            "last_commit": "2026-08-14T08:44:32Z",
             "owner": "RusselWebber",
             "repo": "xlDuckDb",
             "stars": 147
@@ -1355,7 +1355,7 @@
             "last_commit": "2026-07-29T14:51:16Z",
             "owner": "motherduckdb",
             "repo": "duckdb-power-query-connector",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -1501,7 +1501,7 @@
             "last_commit": "2026-07-17T12:03:01Z",
             "owner": "duckdb",
             "repo": "pg_duckdb",
-            "stars": 3188
+            "stars": 3189
           }
         },
         {
@@ -1526,10 +1526,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:13:32Z",
+            "last_commit": "2026-08-14T16:17:25Z",
             "owner": "Snowflake-Labs",
             "repo": "pg_lake",
-            "stars": 1610
+            "stars": 1612
           }
         },
         {
@@ -1571,7 +1571,7 @@
             "last_commit": "2026-07-31T17:19:01Z",
             "owner": "gizmodata",
             "repo": "gizmosql",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -1610,7 +1610,7 @@
             "last_commit": "2026-08-13T09:23:33Z",
             "owner": "duckdb",
             "repo": "ducklake",
-            "stars": 2913
+            "stars": 2915
           }
         },
         {
@@ -1621,10 +1621,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T20:19:45Z",
+            "last_commit": "2026-08-14T08:23:39Z",
             "owner": "duckdb",
             "repo": "duckdb-iceberg",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -1635,7 +1635,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T16:40:49Z",
+            "last_commit": "2026-08-14T09:29:02Z",
             "owner": "duckdb",
             "repo": "duckdb-delta",
             "stars": 228
@@ -1725,10 +1725,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T10:37:43Z",
+            "last_commit": "2026-08-14T12:39:00Z",
             "owner": "cwida",
             "repo": "duckpgq-extension",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -1784,7 +1784,7 @@
             "last_commit": "2026-07-22T18:16:17Z",
             "owner": "isaacbrodsky",
             "repo": "h3-duckdb",
-            "stars": 250
+            "stars": 251
           }
         },
         {
@@ -1798,7 +1798,7 @@
             "last_commit": "2026-08-09T12:09:53Z",
             "owner": "hafenkran",
             "repo": "duckdb-bigquery",
-            "stars": 167
+            "stars": 166
           }
         },
         {
@@ -1896,7 +1896,7 @@
             "last_commit": "2026-08-13T07:33:12Z",
             "owner": "gropaul",
             "repo": "dash",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -1963,7 +1963,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-06T19:42:41Z",
+            "last_commit": "2026-08-14T16:29:17Z",
             "owner": "KoliStat",
             "repo": "the-stats-duck",
             "stars": 55
@@ -2182,7 +2182,7 @@
             "last_commit": "2025-10-10T15:34:00Z",
             "owner": "kuzudb",
             "repo": "kuzu",
-            "stars": 4027
+            "stars": 4026
           }
         },
         {
@@ -2193,7 +2193,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:58:10Z",
+            "last_commit": "2026-08-14T09:01:46Z",
             "owner": "Mause",
             "repo": "duckdb_engine",
             "stars": 495
@@ -2221,7 +2221,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:34:23Z",
+            "last_commit": "2026-08-14T13:39:01Z",
             "owner": "duckdb",
             "repo": "unity_catalog",
             "stars": 108
@@ -2382,7 +2382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:34:50.044Z",
+    "last_updated": "2026-08-14T21:16:12.833Z",
     "original_repository": "davidgasquez/awesome-duckdb",
     "original_repository_sha": "009e09359b69ad323fa8757a873e2db4c86e5658",
     "enhanced_repository": "enhansome/enhansome-duckdb",
