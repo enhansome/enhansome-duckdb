@@ -117,7 +117,7 @@ The DuckLake file format was released on 2025-05-27: see the [website](https://d
 
 * [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,577 | 🐛 7 | 🌐 Python | 📅 2026-08-28 - Python transpiler that translates between 24 different SQL dialects including DuckDB.
 * [SQLMesh](https://github.com/TobikoData/sqlmesh) ⭐ 3,260 | 🐛 274 | 🌐 Python | 📅 2026-08-28 - A next-generation data transformation and modeling framework with support for DuckDB connections for state, transformations & running unit tests locally.
-* [Spice.ai](https://github.com/spiceai/spiceai) ⭐ 3,073 | 🐛 759 | 🌐 Rust | 📅 2026-08-29 - A unified SQL query interface and portable runtime to locally materialize (using an embedded DuckDB), accelerate, and query datasets from any database, data warehouse, or data lake.
+* [Spice.ai](https://github.com/spiceai/spiceai) ⭐ 3,073 | 🐛 760 | 🌐 Rust | 📅 2026-08-29 - A unified SQL query interface and portable runtime to locally materialize (using an embedded DuckDB), accelerate, and query datasets from any database, data warehouse, or data lake.
 * [Rill Data](https://github.com/rilldata/rill) ⭐ 2,851 | 🐛 208 | 🌐 Go | 📅 2026-08-28 - Tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.
 * [Amphi ETL](https://github.com/amphi-ai/amphi-etl) ⭐ 1,400 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-24 - Low-code data pipelines for structured and unstructured data. SQL transformations are powered by DuckDB.
 * [Duckle](https://github.com/SouravRoy-ETL/duckle) ⭐ 1,245 | 🐛 52 | 🌐 Rust | 📅 2026-08-28 - Local-first visual ETL/ELT studio. Drag sources, transforms and sinks onto a canvas; it compiles to plain DuckDB SQL and runs entirely on DuckDB. Open source desktop app, with a built-in MCP server for generating and running pipelines from natural language.
@@ -307,7 +307,7 @@ The DuckLake file format was released on 2025-05-27: see the [website](https://d
 * [AliSQL](https://github.com/alibaba/AliSQL) ⭐ 5,873 | 🐛 12 | 🌐 C++ | 📅 2026-07-18 - A MySQL branch originated from Alibaba Group. Integrates DuckDB as a native storage engine.
 * [pg\_duckdb](https://github.com/duckdb/pg_duckdb) ⭐ 3,214 | 🐛 121 | 🌐 C++ | 📅 2026-07-17 - DuckDB-powered PostgreSQL for high-performance apps & analytics.
 * [pg\_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) ⭐ 2,003 | 🐛 14 | 🌐 Rust | 📅 2026-03-31 - A PostgreSQL extension that adds native column store tables with DuckDB.
-* [pg\_lake](https://github.com/snowflake-labs/pg_lake) ⭐ 1,628 | 🐛 108 | 🌐 Python | 📅 2026-08-28 - `pg_lake` integrates Iceberg and data lake files into Postgres. Uses DuckDB to execute queries.
+* [pg\_lake](https://github.com/snowflake-labs/pg_lake) ⭐ 1,629 | 🐛 109 | 🌐 Python | 📅 2026-08-29 - `pg_lake` integrates Iceberg and data lake files into Postgres. Uses DuckDB to execute queries.
 * [MyDuck Server](https://github.com/apecloud/myduckserver) ⭐ 585 | 🐛 39 | 🌐 Go | 📅 2026-08-28 - A server wrapping DuckDB with MySQL and PostgreSQL wire protocol support.
 * [pg\_analytics](https://github.com/paradedb/pg_analytics) ⚠️ Archived - PostgreSQL extension embedding DuckDB-in-PostgreSQL for fast on-disk and remote object storage analytics from Postgres. Built as a Foreign Data Wrapper with full query pushdown to DuckDB. Integrates easily with ParadeDB.
 * [GizmoSQL - Arrow Flight SQL Server](https://github.com/gizmodata/gizmosql) ⭐ 359 | 🐛 1 | 🌐 C++ | 📅 2026-08-27 - A C++ implementation of the [Arrow Flight SQL protocol](https://arrow.apache.org/docs/format/FlightSql.html) that runs in a client-server setup with DuckDB or SQLite as backends.
@@ -389,7 +389,7 @@ Community-contributed DuckDB extensions, which can be installed via `INSTALL ⟨
 * [go-duckfs](https://github.com/firetiger-oss/go-duckfs) ⭐ 63 | 🐛 1 | 🌐 Go | 📅 2026-07-09 - A Go library that mounts `io/fs` file systems as DuckDB virtual file systems, sandboxing all I/O through the Go runtime.
 * [DuckDB.ExtensionKit](https://github.com/Giorgi/DuckDB.ExtensionKit) ⭐ 53 | 🐛 1 | 🌐 C# | 📅 2026-03-09 - Build native DuckDB extensions in C#.
 * [duckdb-extension-template-zig](https://github.com/rupurt/duckdb-extension-template-zig) ⭐ 36 | 🐛 1 | 🌐 Nix | 📅 2024-03-16 - A Zig & Nix toolkit template for building extensions against multiple versions of DuckDB using Zig, C or C++.
-* [duckdb\_protobuf](https://github.com/0xcaff/duckdb_protobuf) ⭐ 30 | 🐛 6 | 🌐 Rust | 📅 2025-07-21 - Plugin for querying encoded protobuf messages (both sequences and individual messages per file).
+* [duckdb\_protobuf](https://github.com/0xcaff/duckdb_protobuf) ⭐ 30 | 🐛 7 | 🌐 Rust | 📅 2026-08-29 - Plugin for querying encoded protobuf messages (both sequences and individual messages per file).
 * [ERPL Web](https://github.com/DataZooDE/erpl-web) ⭐ 30 | 🐛 2 | 🌐 C++ | 📅 2026-08-10 - ERPL Web is a DuckDB extension that connects API-based ecosystems via standard interfaces like OData, GraphQL, and REST.
 * [quack-zig](https://github.com/mlafeldt/quack-zig) ⭐ 23 | 🐛 0 | 🌐 Zig | 📅 2025-10-07 - The infamous DuckDB quack extension rewritten in C and built with Zig. Proof that you can develop DuckDB extensions without drowning in boilerplate.
 * [duckdb-jfr-extension](https://github.com/ocadaruma/duckdb-jfr-extension) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2024-10-15 - DuckDB extension to read JFR (Java Flight Recorder) files directly.
