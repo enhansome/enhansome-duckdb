@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "Rust",
-          "description": null,
+          "description": "duckdb/duckdb-rs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -252,7 +252,7 @@
         {
           "node_type": "item",
           "title": ".NET",
-          "description": null,
+          "description": "Giorgi/DuckDB.NET",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -279,7 +279,7 @@
         {
           "node_type": "item",
           "title": "Go",
-          "description": null,
+          "description": "duckdb/duckdb-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -300,7 +300,7 @@
         {
           "node_type": "item",
           "title": "Ruby",
-          "description": null,
+          "description": "suketa/ruby-duckdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "PHP",
-          "description": null,
+          "description": "satur-io/duckdb-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "Dart",
-          "description": null,
+          "description": "TigerEyeLabs/duckdb-dart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": "PowerShell",
-          "description": null,
+          "description": "dfinke/PSDuckDB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -404,7 +404,7 @@
         {
           "node_type": "item",
           "title": "Common Lisp",
-          "description": null,
+          "description": "ak-coram/cl-duckdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "Haskell",
-          "description": null,
+          "description": "Tritlo/duckdb-haskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,7 +455,7 @@
         {
           "node_type": "item",
           "title": "PHP (PDO)",
-          "description": null,
+          "description": "thomas-0816/pdo-duckdb-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -673,7 +673,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T03:24:01Z",
-                    "open_issues": 313,
+                    "open_issues": 315,
                     "owner": "SQLMesh",
                     "repo": "sqlmesh",
                     "stars": 3305,
@@ -922,8 +922,8 @@
                     "id": 394089041,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T00:01:26Z",
-                    "open_issues": 987,
+                    "last_commit": "2026-10-03T04:41:37Z",
+                    "open_issues": 969,
                     "owner": "spiceai",
                     "repo": "spiceai",
                     "stars": 3096,
@@ -953,8 +953,8 @@
                     "id": 1071616786,
                     "language": "Go",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T23:57:44Z",
-                    "open_issues": 104,
+                    "last_commit": "2026-10-03T02:02:19Z",
+                    "open_issues": 102,
                     "owner": "Basekick-Labs",
                     "repo": "arc",
                     "stars": 679,
@@ -1212,7 +1212,7 @@
                     "open_issues": 15,
                     "owner": "ajl2718",
                     "repo": "whereabouts",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "data-science",
                       "duckdb",
@@ -1511,7 +1511,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T18:46:20Z",
-                    "open_issues": 5,
+                    "open_issues": 9,
                     "owner": "tobymao",
                     "repo": "sqlglot",
                     "stars": 9653,
@@ -2065,8 +2065,8 @@
             "id": 760058710,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:29:05Z",
-            "open_issues": 270,
+            "last_commit": "2026-10-03T02:08:11Z",
+            "open_issues": 271,
             "owner": "narwhals-dev",
             "repo": "narwhals",
             "stars": 1725,
@@ -2248,7 +2248,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T03:54:38Z",
-            "open_issues": 185,
+            "open_issues": 188,
             "owner": "AstroVela",
             "repo": "vane",
             "stars": 137,
@@ -2723,10 +2723,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T23:32:12Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "libredb",
             "repo": "libredb-studio",
-            "stars": 1054,
+            "stars": 1062,
             "topics": [
               "cassandra",
               "clickhouse",
@@ -2931,8 +2931,8 @@
             "id": 1144146151,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:25:28Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-03T04:37:15Z",
+            "open_issues": 74,
             "owner": "kenn-io",
             "repo": "msgvault",
             "stars": 2122,
@@ -3233,8 +3233,8 @@
             "id": 1288847801,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T23:56:15Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-03T03:31:09Z",
+            "open_issues": 28,
             "owner": "ChelseaKR",
             "repo": "gtfs-scorecard",
             "stars": 1,
@@ -3333,7 +3333,7 @@
             "open_issues": 6,
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39779,
+            "stars": 39780,
             "topics": [
               "agents",
               "ai",
@@ -3398,7 +3398,7 @@
             "id": 93584426,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:02:02Z",
+            "last_commit": "2026-10-03T04:43:21Z",
             "open_issues": 112,
             "owner": "manifold-systems",
             "repo": "manifold",
@@ -3501,7 +3501,7 @@
             "open_issues": 87,
             "owner": "turbolytics",
             "repo": "sql-flow",
-            "stars": 800,
+            "stars": 801,
             "topics": []
           },
           "first_seen": "2026-08-28T05:01:23.525Z"
@@ -4276,10 +4276,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-02T19:18:40Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "duckdb",
                 "repo": "ducklake",
-                "stars": 3018,
+                "stars": 3019,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:23.525Z"
@@ -4454,7 +4454,7 @@
                 "open_issues": 32,
                 "owner": "cwida",
                 "repo": "duckpgq-extension",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "graph",
                   "relational-databases",
@@ -4928,7 +4928,7 @@
                 "open_issues": 2,
                 "owner": "hatamiarash7",
                 "repo": "duckdb-netquack",
-                "stars": 44,
+                "stars": 43,
                 "topics": [
                   "database",
                   "database-extension",
@@ -5705,7 +5705,7 @@
                 "id": 606032257,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T03:28:17Z",
+                "last_commit": "2026-10-03T03:12:13Z",
                 "open_issues": 1,
                 "owner": "mehd-io",
                 "repo": "duckdb-extension-radar",
@@ -5726,7 +5726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:03:25.669Z",
+    "last_updated": "2026-10-03T04:45:38.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦆 A curated list of awesome DuckDB resources",
