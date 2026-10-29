@@ -43,12 +43,12 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 * [Serverless DuckDB as API](https://github.com/tobilg/serverless-duckdb) ⭐ 232 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-04 - Use DuckDB as API with Amazon API Gateway and AWS Lambda.
 * [Serverless DuckDB over S3](https://github.com/BauplanLabs/quack-reduce/) ⭐ 224 | 🐛 4 | 🌐 Python | 📅 2024-01-10 - Running DuckDB over a data lake on S3 using lambda.
-* [DuckERD CLI](https://github.com/tobilg/duckerd) ⭐ 164 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-25 – A CLI tool to create an ER Diagram from DuckDB database files.
+* [DuckERD CLI](https://github.com/tobilg/duckerd) ⭐ 165 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-25 – A CLI tool to create an ER Diagram from DuckDB database files.
 * [Awesome DuckLake](https://github.com/esadek/awesome-ducklake) ⭐ 155 | 🐛 5 | 📅 2026-04-20 - A curated list of awesome DuckLake tools and resources.
 * [DuckDB AWS Lambda layer (Node.js)](https://github.com/tobilg/duckdb-nodejs-layer) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2026-01-31 - Run DuckDB in AWS Lambda functions.
 * [Serverless Parquet Repartitioner](https://github.com/tobilg/serverless-parquet-repartitioner) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-30 - Use DuckDB to repartition data in S3-based Data Lakes.
 * [duckdb-docker](https://github.com/duckdb/duckdb-docker) ⭐ 25 | 🐛 3 | 🌐 Shell | 📅 2026-10-19 - Official Docker image for the DuckDB CLI.
-* [DuckDB AWS Lambda layer (Python)](https://github.com/bengeois/aws-layer-duckdb-python) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - Run DuckDB in AWS Lambda functions using Python.
+* [DuckDB AWS Lambda layer (Python)](https://github.com/bengeois/aws-layer-duckdb-python) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-10-28 - Run DuckDB in AWS Lambda functions using Python.
 * [duckdb-nf](https://github.com/edmundmiller/duckdb-nf) ⭐ 3 | 🐛 0 | 🌐 Nextflow | 📅 2025-03-27 - Example uses of DuckDB with Nextflow.
 * [Official documentation](https://duckdb.org/docs/) - Official DuckDB documentation.
   * [Official blog](https://duckdb.org/news/) - Official DuckDB blog.
@@ -87,10 +87,10 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 ## Client APIs
 
-* [Rust](https://github.com/duckdb/duckdb-rs) ⭐ 981 | 🐛 25 | 🌐 Rust | 📅 2026-10-27
-* [.NET](https://github.com/Giorgi/DuckDB.NET/) ⭐ 719 | 🐛 25 | 🌐 C# | 📅 2026-10-27
-* [Go](https://github.com/duckdb/duckdb-go) ⭐ 309 | 🐛 59 | 🌐 Go | 📅 2026-10-26
-* [Ruby](https://github.com/suketa/ruby-duckdb) ⭐ 261 | 🐛 8 | 🌐 Ruby | 📅 2026-10-25
+* [Rust](https://github.com/duckdb/duckdb-rs) ⭐ 981 | 🐛 25 | 🌐 Rust | 📅 2026-10-28
+* [.NET](https://github.com/Giorgi/DuckDB.NET/) ⭐ 720 | 🐛 25 | 🌐 C# | 📅 2026-10-27
+* [Go](https://github.com/duckdb/duckdb-go) ⭐ 310 | 🐛 59 | 🌐 Go | 📅 2026-10-26
+* [Ruby](https://github.com/suketa/ruby-duckdb) ⭐ 261 | 🐛 9 | 🌐 Ruby | 📅 2026-10-25
 * [PHP](https://github.com/satur-io/duckdb-php) ⭐ 91 | 🐛 13 | 🌐 C | 📅 2026-08-15
 * [Dart](https://github.com/TigerEyeLabs/duckdb-dart) ⭐ 72 | 🐛 11 | 🌐 Dart | 📅 2025-11-24
 * [PowerShell](https://github.com/dfinke/PSDuckDB) ⭐ 65 | 🐛 2 | 🌐 PowerShell | 📅 2024-09-10
@@ -120,12 +120,13 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Open Core (Free & Open Source + Optional Paid/Hosted Tier)
 
-* [Rill Data](https://github.com/rilldata/rill) ⭐ 2,969 | 🐛 207 | 🌐 Go | 📅 2026-10-27 - Tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL. ([Rill Cloud](https://www.rilldata.com/pricing))
-* [Shaper](https://github.com/taleshape-com/shaper) ⭐ 1,267 | 🐛 22 | 🌐 Go | 📅 2026-10-26 - Open-source SQL-driven data dashboards, powering Taleshape, built on DuckDB. ([managed hosting](https://taleshape.com/plans-and-pricing))
+* [Rill Data](https://github.com/rilldata/rill) ⭐ 2,970 | 🐛 211 | 🌐 Go | 📅 2026-10-28 - Tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL. ([Rill Cloud](https://www.rilldata.com/pricing))
+* [Shaper](https://github.com/taleshape-com/shaper) ⭐ 1,267 | 🐛 22 | 🌐 Go | 📅 2026-10-28 - Open-source SQL-driven data dashboards, powering Taleshape, built on DuckDB. ([managed hosting](https://taleshape.com/plans-and-pricing))
 * [Evidence](https://evidence.dev) - Generate reports using SQL and markdown. The DuckDB connector allows querying across DuckDB, CSV, Parquet and JSON. ([Evidence Cloud](https://evidence.studio/pricing))
 
 #### Free & Open Source
 
+* [CloudBridge](https://github.com/JetSquirrel/cloudbridge) ⭐ 61 | 🐛 0 | 🌐 Rust | 📅 2026-10-27 - Open-source desktop app for analyzing cloud and AI costs, with a local DuckDB ledger, spending dashboards, and configurable alerts.
 * [DUX](https://github.com/wikar/dux) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-16 - Self-hosted analytics stack with a semantic model, DAX-inspired queries compiled to DuckDB SQL, DuckLake storage and dashboards.
 * [Pondview](https://github.com/paulmupeters/pondview-bi) ⭐ 1 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-17 - Open-source, DuckDB-powered BI workspace for AI-assisted analysis, SQL, charts, and dashboards.
 
@@ -139,16 +140,18 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 #### Commercial
 
 * [Totsum Data Explorer](https://www.totsum.app) - Desktop app (Windows, macOS) for a first look at CSV, Excel, JSON and Parquet files: plain-language questions are turned into DuckDB SQL by a language model that runs on the user's own machine. Can work on a computer with no network connection. ([pricing](https://www.totsum.app/pricing))
+* [SelfSync](https://selfsync.c100k.eu) - Build a DuckDB database with all the activities (i.e. FIT files) contained in a Garmin data export for local analysis with any compatible client or AI assistants.
 
 #### Open Core (Free & Open Source + Optional Paid/Hosted Tier)
 
-* [Kavla](https://github.com/aleda145/kavla) ⭐ 40 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-27 - Infinite canvas for exploratory data analysis. Real time collaboration in the cloud version [kavla.dev](https://kavla.dev)
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 900 | 🐛 59 | 🌐 Python | 📅 2026-10-28 - Computer vision dataset explorer that uses a local DuckDB file as its default database. ([LightlyStudio Enterprise](https://docs.lightly.ai/studio/enterprise/))
+* [Kavla](https://github.com/aleda145/kavla) ⭐ 40 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-28 - Infinite canvas for exploratory data analysis. Real time collaboration in the cloud version [kavla.dev](https://kavla.dev)
 * [Enso Analytics](https://www.ensoanalytics.com/) - Dual visual/textual programming language and analytics platform, allowing DuckDB to be used as a data engine for its visual analytics and low-code workflows. ([Enso Cloud](https://www.ensoanalytics.com/pricing))
 * [Latitude](https://latitude.so) - Latitude uses DuckDB to power data snapshots. Drop a CSV file and query it with SQL at the speed of light. ([paid cloud](https://latitude.so/pricing))
 
 #### Free & Open Source
 
-* [Dex](https://github.com/exmergo/dex) ⭐ 102 | 🐛 128 | 🌐 Python | 📅 2026-10-27 - Agent skills for profiling DuckDB databases, verifying joins, and mapping schemas through a read-only engine, with a seeded local DuckDB demo.
+* [Dex](https://github.com/exmergo/dex) ⭐ 103 | 🐛 138 | 🌐 Python | 📅 2026-10-28 - Agent skills for profiling DuckDB databases, verifying joins, and mapping schemas through a read-only engine, with a seeded local DuckDB demo.
 * [Apple Embedding Atlas](https://apple.github.io/embedding-atlas/) - A tool that provides interactive visualizations for large embeddings. Uses DuckDB.
 * [Cloudspecs](https://cloudspecs.fyi/) - Live visualization tool that enables cloud system architects to answer specific instance selection questions, powered by DuckDB-Wasm.
 
@@ -167,16 +170,16 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Open Core (Free & Open Source + Optional Paid/Hosted Tier)
 
-* [SQLMesh](https://github.com/TobikoData/sqlmesh) ⭐ 3,335 | 🐛 299 | 🌐 Python | 📅 2026-10-26 - A next-generation data transformation and modeling framework with support for DuckDB connections for state, transformations & running unit tests locally. ([Tobiko Cloud](https://tobikodata.com))
-* [DBTrail](https://github.com/dbtrail/dbtrail) ⭐ 65 | 🐛 10 | 🌐 Go | 📅 2026-10-26 - Keeps MySQL tables as Parquet snapshots updated from the binlog, with a generated `views.sql` so DuckDB queries them as tables. Also keeps every version of every row. ([pricing](https://dbtrail.com/pricing))
+* [SQLMesh](https://github.com/TobikoData/sqlmesh) ⭐ 3,339 | 🐛 300 | 🌐 Python | 📅 2026-10-26 - A next-generation data transformation and modeling framework with support for DuckDB connections for state, transformations & running unit tests locally. ([Tobiko Cloud](https://tobikodata.com))
+* [DBTrail](https://github.com/dbtrail/dbtrail) ⭐ 65 | 🐛 11 | 🌐 Go | 📅 2026-10-29 - Keeps MySQL tables as Parquet snapshots updated from the binlog, with a generated `views.sql` so DuckDB queries them as tables. Also keeps every version of every row. ([pricing](https://dbtrail.com/pricing))
 
 #### Free & Open Source
 
-* [Duckle](https://github.com/SouravRoy-ETL/duckle) ⭐ 1,532 | 🐛 74 | 🌐 Rust | 📅 2026-10-23 - Local-first visual ETL/ELT studio. Drag sources, transforms and sinks onto a canvas; it compiles to plain DuckDB SQL and runs entirely on DuckDB. Open source desktop app, with a built-in MCP server for generating and running pipelines from natural language.
+* [Duckle](https://github.com/SouravRoy-ETL/duckle) ⭐ 1,534 | 🐛 74 | 🌐 Rust | 📅 2026-10-23 - Local-first visual ETL/ELT studio. Drag sources, transforms and sinks onto a canvas; it compiles to plain DuckDB SQL and runs entirely on DuckDB. Open source desktop app, with a built-in MCP server for generating and running pipelines from natural language.
 * [yato](https://github.com/Bl3f/yato) ⭐ 352 | 🐛 3 | 🌐 Python | 📅 2025-11-22 - The smallest DuckDB SQL orchestrator on Earth.
-* [DatalakeStudio](https://github.com/javitorres/datalakeStudio) ⭐ 104 | 🐛 0 | 🌐 Vue | 📅 2026-07-30 - Load, explore, transform your datasets and expose them via API. Integration with external APIs, S3, PostgreSQL and ChatGPT.
-* [ETLX](https://github.com/realdatadriven/etlx) ⭐ 56 | 🐛 2 | 🌐 Go | 📅 2026-10-27 - DuckDB-powered ETL tool written in Go, inspired by evidence.dev's syntax. It uses a structured Markdown config where heading levels define nested blocks, yaml code blocks specify metadata, and sql code blocks handle data interactions. Enables clean, code-light orchestration with minimal setup.
-* [AnkaFlow](https://github.com/targetta/ankaflow) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - YAML-based data pipeline framework that runs both locally and fully in-browser designed for data engineers, ML teams, and SaaS developers who need flexible, SQL-powered pipelines.
+* [DatalakeStudio](https://github.com/javitorres/datalakeStudio) ⭐ 105 | 🐛 0 | 🌐 Vue | 📅 2026-07-30 - Load, explore, transform your datasets and expose them via API. Integration with external APIs, S3, PostgreSQL and ChatGPT.
+* [ETLX](https://github.com/realdatadriven/etlx) ⭐ 56 | 🐛 2 | 🌐 Go | 📅 2026-10-28 - DuckDB-powered ETL tool written in Go, inspired by evidence.dev's syntax. It uses a structured Markdown config where heading levels define nested blocks, yaml code blocks specify metadata, and sql code blocks handle data interactions. Enables clean, code-light orchestration with minimal setup.
+* [AnkaFlow](https://github.com/targetta/ankaflow) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - YAML-based data pipeline framework that runs both locally and fully in-browser designed for data engineers, ML teams, and SaaS developers who need flexible, SQL-powered pipelines.
 * [Renart](https://getrenart.com/) - Local-first open source data platform for SQL and Python pipelines, notebooks and dashboards, with DuckDB support and declarative workflow definitions in Git.
 
 #### Free (Proprietary / Source-Available)
@@ -195,15 +198,14 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Open Core (Free & Open Source + Optional Paid/Hosted Tier)
 
-* [Spice.ai](https://github.com/spiceai/spiceai) ⭐ 3,112 | 🐛 972 | 🌐 Rust | 📅 2026-10-28 - A unified SQL query interface and portable runtime to locally materialize (using an embedded DuckDB), accelerate, and query datasets from any database, data warehouse, or data lake. ([Spice.ai Cloud](https://spice.ai))
-* [Arc](https://github.com/Basekick-Labs/arc) ⭐ 685 | 🐛 77 | 🌐 Go | 📅 2026-10-27 - Time-series data warehouse built on DuckDB. ([commercial license](https://github.com/Basekick-Labs/arc) ⭐ 685 | 🐛 77 | 🌐 Go | 📅 2026-10-27)
+* [Spice.ai](https://github.com/spiceai/spiceai) ⭐ 3,113 | 🐛 997 | 🌐 Rust | 📅 2026-10-29 - A unified SQL query interface and portable runtime to locally materialize (using an embedded DuckDB), accelerate, and query datasets from any database, data warehouse, or data lake. ([Spice.ai Cloud](https://spice.ai))
+* [Arc](https://github.com/Basekick-Labs/arc) ⭐ 685 | 🐛 77 | 🌐 Go | 📅 2026-10-28 - Time-series data warehouse built on DuckDB. ([commercial license](https://github.com/Basekick-Labs/arc) ⭐ 685 | 🐛 77 | 🌐 Go | 📅 2026-10-28)
 
 #### Free & Open Source
 
-* [UniverSQL](https://github.com/buremba/universql) ⭐ 207 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-10-20 - An implementation of Snowflake API, enables running queries on Snowflake tables locally with DuckDB without a running warehouse.
+* [UniverSQL](https://github.com/buremba/universql) ⭐ 208 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-10-20 - An implementation of Snowflake API, enables running queries on Snowflake tables locally with DuckDB without a running warehouse.
 * [DataSpoc Lens](https://github.com/dataspoclab/dataspoc-lens) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-04-28 - Virtual warehouse over cloud Parquet. SQL shell, Jupyter/Marimo notebooks, AI natural language queries, and local cache — all powered by DuckDB.
 * [Hugr](https://hugr-lab.github.io/) - An data mesh platform and high-performance GraphQL backend powered by DuckDB.
-* [Quackpipe](https://github.com/metrico/quackpipe) - Serverless OLAP API/UI built on top of DuckDB with basic ClickHouse API compatibility and MotherDuck support.
 
 #### Free (Proprietary / Source-Available)
 
@@ -218,8 +220,8 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Free & Open Source
 
-* [CNEquity](https://github.com/rootSunc/CNEquity) ⭐ 883 | 🐛 3 | 🌐 Python | 📅 2026-10-25 - Self-hosted China A-share market data lake; DuckDB views over its Parquet datasets back SQL queries from the CLI and a read-only `run_sql` tool in its MCP server for AI agents.
-* [duckdb-vectors](https://github.com/bernard357/duckdb-vectors) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - MCP or embeddable semantic-search building block for agentic systems — hybrid vector + exact-token search over a local DuckDB file, no external vector database.
+* [CNEquity](https://github.com/rootSunc/CNEquity) ⭐ 890 | 🐛 3 | 🌐 Python | 📅 2026-10-25 - Self-hosted China A-share market data lake; DuckDB views over its Parquet datasets back SQL queries from the CLI and a read-only `run_sql` tool in its MCP server for AI agents.
+* [duckdb-vectors](https://github.com/bernard357/duckdb-vectors) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - MCP or embeddable semantic-search building block for agentic systems — hybrid vector + exact-token search over a local DuckDB file, no external vector database.
 * [PocketDuck](https://github.com/mailbus/PocketDuck) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-18 - Single-binary backend pairing PocketBase (auth, files, realtime) with an embedded DuckDB runtime: read-only analytics API, cross-source joins over Parquet/CSV/SQLite/PostgreSQL/MySQL, and exports to Parquet, PostgreSQL and Excel.
 * [VulcanSQL](https://vulcansql.com/) - DuckDB can be used as a caching layer or a data connector in VulcanSQL, a Data API framework for data folks to create REST APIs by writing SQL templates.
 
@@ -227,7 +229,7 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Open Core (Free & Open Source + Optional Paid/Hosted Tier)
 
-* [HitKeep](https://github.com/PascaleBeier/hitkeep) ⭐ 101 | 🐛 6 | 🌐 Go | 📅 2026-10-26 - Open-source, privacy-first web analytics for traffic, funnels, ecommerce, Search Console, and AI visibility. Runs as a single Go binary with embedded DuckDB. ([HitKeep Cloud](https://hitkeep.com/cloud))
+* [HitKeep](https://github.com/PascaleBeier/hitkeep) ⭐ 102 | 🐛 6 | 🌐 Go | 📅 2026-10-28 - Open-source, privacy-first web analytics for traffic, funnels, ecommerce, Search Console, and AI visibility. Runs as a single Go binary with embedded DuckDB. ([HitKeep Cloud](https://hitkeep.com/cloud))
 
 #### Free & Open Source
 
@@ -250,18 +252,19 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Open Core (Free & Open Source + Optional Paid/Hosted Tier)
 
-* [Tailpipe](https://github.com/turbot/tailpipe) ⭐ 583 | 🐛 42 | 🌐 Go | 📅 2026-10-22 - An open-source SIEM for instant log insights. ([commercial license](https://turbot.com/open-source))
+* [Tailpipe](https://github.com/turbot/tailpipe) ⭐ 584 | 🐛 42 | 🌐 Go | 📅 2026-10-22 - An open-source SIEM for instant log insights. ([commercial license](https://turbot.com/open-source))
 
 #### Free & Open Source
 
-* [Sloggo](https://github.com/phare/sloggo) ⭐ 462 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
+* [Sloggo](https://github.com/phare/sloggo) ⭐ 463 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
 
 ### Data Quality & Governance
 
 #### Free & Open Source
 
 * [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) ⭐ 80 | 🐛 3 | 🌐 Python | 📅 2026-10-21 - Open-source data quality tool that profiles tables and generates and runs data quality tests; connects to DuckDB databases and uses DuckDB to profile and test CSV, Parquet, and JSON files locally, in Amazon S3, or in Azure Blob Storage. Apache 2.0.
-* [DataCharter](https://github.com/datacharter/datacharter) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2026-10-21 - Local, contract-governed data explorer. Federates files and databases (Postgres, Snowflake, BigQuery, Excel, and more) through DuckDB — SQL editor, charts, profiling — then hands AI agents a PII-masked, read-only query surface over MCP. Apache-2.0.
+* [DataCharter](https://github.com/datacharter/datacharter) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2026-10-28 - Local, contract-governed data explorer. Federates files and databases (Postgres, Snowflake, BigQuery, Excel, and more) through DuckDB — SQL editor, charts, profiling — then hands AI agents a PII-masked, read-only query surface over MCP. Apache-2.0.
+* [Data Contract CLI](https://cli.datacontract.com) - Command-line tool to test data against data contracts in the Open Data Contract Standard (ODCS). Converts from and to formats such as SQL DDL, dbt, Avro, and JSON Schema. Uses DuckDB to run schema and quality checks on sources such as CSV, Parquet and JSON files (local, S3, GCS, Azure), DuckDB databases, Iceberg tables and Kafka topics. MIT.
 
 #### Free (Proprietary / Source-Available)
 
@@ -287,7 +290,7 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Free & Open Source
 
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,730 | 🐛 3 | 🌐 Python | 📅 2026-10-27 - Python transpiler that translates between 24 different SQL dialects including DuckDB.
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,731 | 🐛 3 | 🌐 Python | 📅 2026-10-28 - Python transpiler that translates between 24 different SQL dialects including DuckDB.
 * [geol](https://github.com/opt-nc/geol) ⭐ 11 | 🐛 19 | 🌐 HTML | 📅 2026-10-26 - A command line tool to efficiently show end-of-life dates for a number of products in your terminal using the [`endoflife.date`](https://endoflife.date) API, makes it possible to export the whole `endoflife.date` database as a fully featured DuckDB file.
 * [Malloy](https://www.malloydata.dev/) - Malloy is an experimental language for describing data relationships and transformations. Malloy connects to BigQuery, Snowflake, Trino, and Postgres, and natively supports DuckDB.
 
@@ -299,13 +302,13 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 #### Free & Open Source
 
-* [Duckle](https://github.com/SouravRoy-ETL/duckle) ⭐ 1,532 | 🐛 74 | 🌐 Rust | 📅 2026-10-23 - Local-first visual ETL/ELT studio. Drag sources, transforms and sinks onto a canvas; it compiles to plain DuckDB SQL and runs entirely on DuckDB. Open source desktop app, with a built-in MCP server for generating and running pipelines from natural language.
-* [HitKeep](https://github.com/PascaleBeier/hitkeep) ⭐ 101 | 🐛 6 | 🌐 Go | 📅 2026-10-26 - Open-source, privacy-first web analytics for traffic, funnels, ecommerce, Search Console, and AI visibility. Runs as a single Go binary with embedded DuckDB.
+* [Duckle](https://github.com/SouravRoy-ETL/duckle) ⭐ 1,534 | 🐛 74 | 🌐 Rust | 📅 2026-10-23 - Local-first visual ETL/ELT studio. Drag sources, transforms and sinks onto a canvas; it compiles to plain DuckDB SQL and runs entirely on DuckDB. Open source desktop app, with a built-in MCP server for generating and running pipelines from natural language.
+* [HitKeep](https://github.com/PascaleBeier/hitkeep) ⭐ 102 | 🐛 6 | 🌐 Go | 📅 2026-10-28 - Open-source, privacy-first web analytics for traffic, funnels, ecommerce, Search Console, and AI visibility. Runs as a single Go binary with embedded DuckDB.
 * [ReportBurster](https://github.com/flowkraft/reportburster) ⭐ 80 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-26 - Business Intelligence Done Right - ReportBurster uses DuckDB as its in-process analytics database engine, and for larger workloads, supports ClickHouse too.
 * [connections.duckdb](https://github.com/tomjakubowski/connections.duckdb) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-03-06 - Play the New York Times Connections Puzzle with DuckDB.
-* [DataCharter](https://github.com/datacharter/datacharter) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2026-10-21 - Local, contract-governed data explorer. Federates files and databases (Postgres, Snowflake, BigQuery, Excel, and more) through DuckDB — SQL editor, charts, profiling — then hands AI agents a PII-masked, read-only query surface over MCP. Apache-2.0.
+* [DataCharter](https://github.com/datacharter/datacharter) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2026-10-28 - Local, contract-governed data explorer. Federates files and databases (Postgres, Snowflake, BigQuery, Excel, and more) through DuckDB — SQL editor, charts, profiling — then hands AI agents a PII-masked, read-only query surface over MCP. Apache-2.0.
+* [AnkaFlow](https://github.com/targetta/ankaflow) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - YAML-based data pipeline framework that runs both locally and fully in-browser designed for data engineers, ML teams, and SaaS developers who need flexible, SQL-powered pipelines.
 * [DataSpoc Lens](https://github.com/dataspoclab/dataspoc-lens) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-04-28 - Virtual warehouse over cloud Parquet. SQL shell, Jupyter/Marimo notebooks, AI natural language queries, and local cache — all powered by DuckDB.
-* [AnkaFlow](https://github.com/targetta/ankaflow) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - YAML-based data pipeline framework that runs both locally and fully in-browser designed for data engineers, ML teams, and SaaS developers who need flexible, SQL-powered pipelines.
 * [Pondview](https://github.com/paulmupeters/pondview-bi) ⭐ 1 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-17 - Open-source, DuckDB-powered BI workspace for AI-assisted analysis, SQL, charts, and dashboards.
 * [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and paths on DuckDB (and Postgres, Snowflake, ClickHouse, Databricks).
 * [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE and migration tool with DuckDB-powered federated SQL.
@@ -320,27 +323,27 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 ## Backends
 
 * [DuckDB API](https://github.com/tobilg/duckdb-api) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-06 - a TypeScript-based Docker image containing DuckDB, and a Hono framework REST API with JSON or streaming Arrow responses.
-* [Hydra ETL](https://github.com/bejaouibechir/Hydra) ⭐ 4 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - Declarative YAML ETL engine that can run each transformation step on DuckDB or pandas.
+* [Hydra ETL](https://github.com/bejaouibechir/Hydra) ⭐ 4 | 🐛 7 | 🌐 Python | 📅 2026-10-28 - Declarative YAML ETL engine that can run each transformation step on DuckDB or pandas.
 * [Mosaic DuckDB Server](https://pypi.org/project/duckdb-server/) - A Python-based server that runs a local DuckDB instance and supports queries over Web Sockets or HTTP, returning data in either Apache Arrow or JSON format.
 * [duckdb-server](https://lib.rs/crates/duckdb-server) - A Rust-based server that runs a local DuckDB instance and supports queries over Web Sockets or HTTP/HTTPS, returning data in either Apache Arrow or JSON format.
 
 ## Libraries Powered by DuckDB
 
-* [smallpond](https://github.com/deepseek-ai/smallpond) ⭐ 5,026 | 🐛 36 | 🌐 Python | 📅 2025-03-05 - A distributed data processing framework by DeepSeek built on DuckDB and 3FS.
-* [Splink](http://github.com/moj-analytical-services/splink) ⭐ 2,539 | 🐛 225 | 🌐 Python | 📅 2026-10-26 - A free Python library for fast, accurate data deduplication and record linkage.
+* [smallpond](https://github.com/deepseek-ai/smallpond) ⭐ 5,027 | 🐛 36 | 🌐 Python | 📅 2025-03-05 - A distributed data processing framework by DeepSeek built on DuckDB and 3FS.
+* [Splink](http://github.com/moj-analytical-services/splink) ⭐ 2,543 | 🐛 228 | 🌐 Python | 📅 2026-10-28 - A free Python library for fast, accurate data deduplication and record linkage.
 * [Fugue](https://github.com/fugue-project/fugue/) ⭐ 2,166 | 🐛 55 | 🌐 Python | 📅 2026-05-19 - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
-* [Narwhals](https://github.com/narwhals-dev/narwhals) ⭐ 1,743 | 🐛 277 | 🌐 Python | 📅 2026-10-27 - Lightweight and extensible compatibility layer between dataframe libraries, supports DuckDB.
-* [AVA](https://github.com/antvis/AVA) ⭐ 1,588 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-27 - A TypeScript framework for natural-language data analysis and visualization, using DuckDB for SQL execution and data profiling in Node.js.
+* [Narwhals](https://github.com/narwhals-dev/narwhals) ⭐ 1,743 | 🐛 277 | 🌐 Python | 📅 2026-10-28 - Lightweight and extensible compatibility layer between dataframe libraries, supports DuckDB.
+* [AVA](https://github.com/antvis/AVA) ⭐ 1,589 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-28 - A TypeScript framework for natural-language data analysis and visualization, using DuckDB for SQL execution and data profiling in Node.js.
 * [BemiDB](https://github.com/BemiHQ/BemiDB) ⭐ 1,537 | 🐛 0 | 🌐 Go | 📅 2026-10-23 - PostgreSQL read replica optimized for analytics, using DuckDB.
 * [SQLProvider](https://github.com/fsprojects/SQLProvider) ⭐ 628 | 🐛 58 | 🌐 F# | 📅 2026-10-17 - F# type provider for SQL databases with a DuckDB provider (SQLProvider.DuckDb): typed LINQ queries and CRUD over the database schema.
-* [SQLFrame](https://github.com/eakmanrq/sqlframe) ⭐ 542 | 🐛 4 | 🌐 Python | 📅 2026-10-27 - Implements the PySpark DataFrame API in order to enable running transformation pipelines directly on database engines such as DuckDB.
+* [SQLFrame](https://github.com/eakmanrq/sqlframe) ⭐ 542 | 🐛 4 | 🌐 Python | 📅 2026-10-28 - Implements the PySpark DataFrame API in order to enable running transformation pipelines directly on database engines such as DuckDB.
 * [duckdb\_fdw](https://github.com/alitrack/duckdb_fdw) ⭐ 415 | 🐛 1 | 🌐 C | 📅 2026-10-26 - DuckDB Foreign Data Wrapper for PostgreSQL.
 * [QuackOSM](https://github.com/kraina-ai/quackosm) ⭐ 379 | 🐛 23 | 🌐 Python | 📅 2026-10-26 - A Python library for downloading and transforming raw OpenStreetMap data into GeoParquet files.
 * [Simple-data-analysis](https://github.com/nshiab/simple-data-analysis) ⭐ 356 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-22 - Easy-to-use and high-performance JavaScript library for data analysis.
-* [Vane](https://github.com/AstroVela/vane) ⭐ 140 | 🐛 235 | 🌐 Python | 📅 2026-10-27 - A multimodal-native engine for AI workloads, built on a DuckDB fork with Python and SQL interfaces.
+* [Vane](https://github.com/AstroVela/vane) ⭐ 141 | 🐛 234 | 🌐 Python | 📅 2026-10-28 - A multimodal-native engine for AI workloads, built on a DuckDB fork with Python and SQL interfaces.
 * [flapi](https://github.com/DataZooDE/flapi) ⭐ 75 | 🐛 3 | 🌐 C++ | 📅 2026-10-04 - An API Framework that heavily relies on the power of DuckDB and DuckDB extensions. Ready to build performant and cost-efficient APIs on top of BigQuery or Snowflake for AI Agents and Data Apps.
 * [jsqltranspiler](https://github.com/starlake-ai/jsqltranspiler) ⭐ 73 | 🐛 17 | 🌐 Java | 📅 2026-10-21 - Rewrite BigQuery, Redshift, Snowflake and Databricks queries into DuckDB-compatible SQL.
-* [Snowflake Emulator](https://github.com/nnnkkk7/snowflake-emulator) ⭐ 56 | 🐛 10 | 🌐 Go | 📅 2026-10-17 - A lightweight Snowflake emulator built with Go and DuckDB for local development and testing.
+* [Snowflake Emulator](https://github.com/nnnkkk7/snowflake-emulator) ⭐ 57 | 🐛 10 | 🌐 Go | 📅 2026-10-17 - A lightweight Snowflake emulator built with Go and DuckDB for local development and testing.
 * [DuckDB.EFCoreProvider](https://github.com/skuirrels/DuckDB.EFCoreProvider) ⭐ 18 | 🐛 2 | 🌐 C# | 📅 2026-10-15 - Entity Framework Core provider for DuckDB and DuckLake, with LINQ, writes, migrations, bulk ingestion, and Parquet-backed tiered storage for .NET.
 * [@jetblack/duckdb-react](https://github.com/rob-blackbourn/jetblack-duckdb-react) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-09 - A context manager for React and DuckDB-Wasm.
 * [Unleasharp.DB.DuckDB](https://github.com/TraberSoftware/Unleasharp.DB.DuckDB) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2025-11-20 - Lightweight DuckDB query-building client for C#.
@@ -355,7 +358,7 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 ### Web Clients (WebAssembly)
 
-* [Preswald](https://github.com/StructuredLabs/preswald) ⭐ 4,270 | 🐛 330 | 🌐 Python | 📅 2026-06-11 - WASM packager for Python-based interactive data apps.
+* [Preswald](https://github.com/StructuredLabs/preswald) ⭐ 4,271 | 🐛 330 | 🌐 Python | 📅 2026-06-11 - WASM packager for Python-based interactive data apps.
 * [Duck-UI](https://github.com/caioricciuti/duck-ui) ⭐ 646 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - Duck-UI is a web-based interface for interacting with DuckDB with a SQL editor, data import/export, data explorer, query history, theme toggle and keyboard shortcuts.
 * [Medama](https://github.com/medama-io/medama) ⚠️ Archived - Self-hostable, privacy-focused website analytics.
 * [QuackDB](https://github.com/mattf96s/QuackDB) ⭐ 204 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-01 - Open-source in-browser DuckDB SQL playground and editor.
@@ -370,7 +373,6 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 * [SQLRooms](https://sqlrooms.org/) – React app framework for small to mid-sized data analytics powered by DuckDB-WASM.
 * [PondPilot](https://pondpilot.io) - Open-source, 100% client-side data exploration tool that enables users to analyze local and remote data using SQL. Zero-copy direct access to local datasets sets PondPilot apart from similar tools. It runs entirely in the browser—no servers, no cloud uploads, and no setup required.
 * [dbxlite](https://dbxlite.com/) - DuckDB workbench for native & browser.
-* [Joinery](https://github.com/joinery-labs/joinery) - Privacy-first local data analytics with a modern SQL editor, multi-format support (CSV, Excel, JSON, Parquet), and parameterized saved queries. Available as browser app and Tauri desktop client.
 * [csvtodashboard](https://csvtodashboard.com/csv-sql-query) - Free SQL-on-CSV in the browser via DuckDB-Wasm — no signup, no upload, files stay on-device.
 * [ParquetKit](https://parquetkit.com) - Browser-based Parquet viewer, SQL workbench and converter powered by DuckDB-Wasm. Fully client-side — files never leave your device.
 * [Bedevere](https://bedeverewise.app) - Tabular data visualizer and DuckDB SQL editor on DuckDB-Wasm: open CSV/Parquet/JSON/Arrow locally, chart results with a grammar-of-graphics `VISUALIZE` syntax, and embed it anywhere via npm component or a one-line iframe.
@@ -381,16 +383,17 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 ## SQL Clients and IDE that Support DuckDB
 
-* [rainfrog](https://github.com/achristmascarl/rainfrog) ⭐ 5,388 | 🐛 16 | 🌐 Rust | 📅 2026-10-13 - A database TUI with experimental support for DuckDB.
-* [Tabularis](https://github.com/TabularisDB/tabularis) ⭐ 5,311 | 🐛 128 | 🌐 TypeScript | 📅 2026-10-27 - Free, open-source desktop SQL client for Windows, macOS and Linux. Its installable DuckDB plugin supports local and in-memory databases, schema browsing, SQL queries and row editing.
-* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 1,293 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-27 - Browser-based SQL IDE that opens DuckDB database files alongside PostgreSQL, MySQL, ClickHouse and other engines, with a schema explorer and JSON EXPLAIN plans. MIT licensed, runs as a container or Helm chart.
+* [rainfrog](https://github.com/achristmascarl/rainfrog) ⭐ 5,389 | 🐛 16 | 🌐 Rust | 📅 2026-10-28 - A database TUI with experimental support for DuckDB.
+* [Tabularis](https://github.com/TabularisDB/tabularis) ⭐ 5,321 | 🐛 138 | 🌐 TypeScript | 📅 2026-10-28 - Free, open-source desktop SQL client for Windows, macOS and Linux. Its installable DuckDB plugin supports local and in-memory databases, schema browsing, SQL queries and row editing.
+* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 1,298 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-28 - Browser-based SQL IDE that opens DuckDB database files alongside PostgreSQL, MySQL, ClickHouse and other engines, with a schema explorer and JSON EXPLAIN plans. MIT licensed, runs as a container or Helm chart.
 * [Duckling](https://github.com/l1xnan/duckling) ⭐ 583 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-26 - A fast viewer for CSV/Parquet files and DuckDB/SQLite, based on Tauri.
 * [rsql](https://github.com/theseus-rs/rsql) ⭐ 459 | 🐛 11 | 🌐 Rust | 📅 2026-09-29 - CLI for DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, SQLite3 and SQL Server.
 * [DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) - Free DuckDB SQL Tools for VS Code IDE. [Premium version available](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) ⭐ 43 | 🐛 2 | 📅 2024-07-14 with advanced features.
-* [DBine](https://github.com/addlayer-io/dbine) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2026-10-27 - Free, open-source (Apache 2.0) desktop database manager for macOS, Windows and Linux. It opens DuckDB databases alongside 130+ databases and cloud services, and its notebooks join query results from several databases locally with DuckDB SQL.
+* [DBine](https://github.com/addlayer-io/dbine) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2026-10-28 - Free, open-source (Apache 2.0) desktop database manager for macOS, Windows and Linux. It opens DuckDB databases alongside 130+ databases and cloud services, and its notebooks join query results from several databases locally with DuckDB SQL.
 * [tuitab](https://github.com/denisotree/tuitab) ⭐ 31 | 🐛 6 | 🌐 Rust | 📅 2026-10-25 - A Rust TUI for fast, in-depth analytics on large datasets (CSV, JSON, Parquet, Excel, SQLite) powered by DuckDB.
+* [DuckLocal](https://github.com/JetSquirrel/DuckLocal) ⭐ 24 | 🐛 2 | 🌐 Rust | 📅 2026-10-28 - Open-source desktop workspace built on DuckDB for querying local CSV, Parquet, JSON, Excel, and DuckDB files, with a SQL editor, visualizations, and interactive dashboards.
 * [AmoxSQL](https://github.com/DSandovalFlavio/AmoxSQL) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-27 - The Modern Codex for Local Data Analysis. A high-performance, local-first IDE built specifically for DuckDB.
-* [DGopher](https://github.com/saanuregh/dgopher) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-10-27 - Free, open-source native desktop database client with DuckDB built in that also connects to PostgreSQL, MySQL, ClickHouse, SQLite and Redis. Drop a CSV, Parquet or JSON file on the window to query it in place. Apache 2.0 licensed, for Linux, macOS and Windows.
+* [DGopher](https://github.com/saanuregh/dgopher) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-10-28 - Free, open-source native desktop database client with DuckDB built in that also connects to PostgreSQL, MySQL, ClickHouse, SQLite and Redis. Drop a CSV, Parquet or JSON file on the window to query it in place. Apache 2.0 licensed, for Linux, macOS and Windows.
 * [Pilotbase](https://github.com/icedsg/pilotbase) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 - Database client that opens DuckDB files alongside PostgreSQL, MySQL, SQLite, MongoDB and vector databases, with a SQL editor, schema tree and SQL export. MIT licensed, runs in Docker or as a desktop app.
 * [Harlequin](https://harlequin.sh) - The DuckDB IDE (TUI) for your terminal.
 * [qStudio](https://www.timestored.com/qstudio/) - A free SQL tool specialized for data analysts. It runs on every operating system and allows easy browsing of tables and charting of results.
@@ -412,19 +415,19 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 ## Projects Powered by DuckDB
 
-* [msgvault](https://github.com/wesm/msgvault) ⭐ 2,171 | 🐛 158 | 🌐 Go | 📅 2026-10-28 - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB.
-* [NBA Monte Carlo](https://github.com/matsonj/nba-monte-carlo) ⭐ 610 | 🐛 0 | 🌐 Python | 📅 2026-10-08 - Monte Carlo simulation of the NBA season, leveraging Meltano, dbt, DuckDB and Evidence.
+* [msgvault](https://github.com/wesm/msgvault) ⭐ 2,172 | 🐛 160 | 🌐 Go | 📅 2026-10-29 - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB.
+* [NBA Monte Carlo](https://github.com/matsonj/nba-monte-carlo) ⭐ 610 | 🐛 1 | 🌐 Python | 📅 2026-10-08 - Monte Carlo simulation of the NBA season, leveraging Meltano, dbt, DuckDB and Evidence.
 * [`transfermarkt-datasets`](https://github.com/dcaribou/transfermarkt-datasets) ⭐ 524 | 🐛 50 | 🌐 Python | 📅 2026-09-05 - Curated football datasets from [Transfermarkt](https://www.transfermarkt.co.uk/).
 * [Datadex](https://github.com/davidgasquez/datadex/) ⭐ 318 | 🐛 0 | 🌐 HTML | 📅 2026-09-19 - Open-source and local-friendly data platform to collaborate on Open Data using DuckDB, Dagster, dbt, and Quarto.
 * [Ducklings](https://github.com/tobilg/ducklings) ⭐ 269 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-25 - A minimal DuckDB WASM build for browsers and serverless environments like Cloudflare Workers.
-* [duckdb-embedding-search](https://github.com/patricktrainer/duckdb-embedding-search) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2024-10-30 - A search engine for DuckDB that uses embedding vectors to find similar documents.
+* [duckdb-embedding-search](https://github.com/patricktrainer/duckdb-embedding-search) ⭐ 153 | 🐛 4 | 🌐 Python | 📅 2024-10-30 - A search engine for DuckDB that uses embedding vectors to find similar documents.
 * [duckdb-claude-slack](https://github.com/sidequery/duckdb-claude-slack) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-12-10 - A Slack data analysis agent powered by DuckDB and Claude Code.
-* [PyStack't](https://github.com/LienBosmans/pystackt) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-12 - Python package that supports data preparation for object-centric process mining.
-* [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 7 | 🐛 89 | 🌐 Python | 📅 2026-10-26 - Self-hostable research workspace that compiles boolean literature-search queries to SQL and runs them offline with DuckDB over versioned Parquet snapshots of a scholarly corpus.
-* [GitHub Repo Analytics](https://github.com/exmergo/github-repo-analytics) ⭐ 7 | 🐛 12 | 🌐 Python | 📅 2026-10-27 - GitHub Actions template that collects a repository's traffic, stars, downloads, and issue/PR activity into a DuckDB file, modeled with dbt and MetricFlow, keeping traffic history beyond GitHub's 14-day limit.
+* [PyStack't](https://github.com/LienBosmans/pystackt) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-12 - Python package that supports data preparation for object-centric process mining.
+* [SixSentences](https://github.com/SixSentences/sixsentences) ⭐ 7 | 🐛 89 | 🌐 Python | 📅 2026-10-28 - Self-hostable research workspace that compiles boolean literature-search queries to SQL and runs them offline with DuckDB over versioned Parquet snapshots of a scholarly corpus.
+* [GitHub Repo Analytics](https://github.com/exmergo/github-repo-analytics) ⭐ 7 | 🐛 12 | 🌐 Python | 📅 2026-10-28 - GitHub Actions template that collects a repository's traffic, stars, downloads, and issue/PR activity into a DuckDB file, modeled with dbt and MetricFlow, keeping traffic history beyond GitHub's 14-day limit.
 * [datagenerator2](https://github.com/uwegeercken/datagenerator2) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-05-01 - Generates random data, allowing to define dependencies between individual fields and varying/definable distribution of field values.
-* [dlt-dbt-duckdb-evidence](https://github.com/Ddscully/dlt-dbt-duckdb-evidence) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-10-20 - End-to-end pipeline over seven public data sources in a single DuckDB file, using dlt, dbt, Polars, Dagster and Evidence. Rebuilds from live sources on every push and publishes the DuckDB file and per-table Parquet monthly.
-* [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard) ⭐ 1 | 🐛 25 | 🌐 HTML | 📅 2026-10-27 - Data-quality grades for 2,400+ public transit (GTFS) feed records. DuckDB builds the cross-agency query layer and a public Parquet table that DuckDB can query over HTTP, and the site's SQL page runs DuckDB-WASM in the browser.
+* [dlt-dbt-duckdb-evidence](https://github.com/Ddscully/dlt-dbt-duckdb-evidence) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-10-20 - End-to-end pipeline over seven public data sources in a single DuckDB file, using dlt, dbt, Polars, Dagster and Evidence. Rebuilds from live sources on every push and publishes the DuckDB file and per-table Parquet monthly.
+* [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard) ⭐ 1 | 🐛 25 | 🌐 HTML | 📅 2026-10-28 - Data-quality grades for 2,400+ public transit (GTFS) feed records. DuckDB builds the cross-agency query layer and a public Parquet table that DuckDB can query over HTTP, and the site's SQL page runs DuckDB-WASM in the browser.
 * [Overture Places UA](https://github.com/xtrustinfo/overture-places-ua) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-08-05 - Extract all Ukrainian POIs from Overture Maps releases into CSV or Parquet with a single DuckDB query.
 * [PH Catalog](https://github.com/sarthakagrawal927/ph-catalog) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-16 - Resumable local Product Hunt catalogue and analytics pipeline that normalizes records into DuckDB and exports verified Parquet snapshots.
 * [AskCSV](https://github.com/Sahilll15/askcsv) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-08 - Ask questions about a CSV in plain English. The file is loaded into DuckDB-WASM in the browser, a model writes a read-only DuckDB query from the schema alone, and failed queries are repaired automatically.
@@ -435,17 +438,17 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 ## Integrations
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,829 | 🐛 8 | 🌐 Makefile | 📅 2026-10-23 - The platform for customizing AI from enterprise data. [MindsDB integrates with DuckDB](https://docs.mindsdb.com/integrations/data-integrations/duckdb), making data from DuckDB accessible to a diverse range of AI/ML models.
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,030 | 🐛 30 | 🌐 Go | 📅 2026-10-27 - CLI tool to copy data between databases and SaaS sources, with DuckDB supported as both a source and a destination.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,830 | 🐛 8 | 🌐 Makefile | 📅 2026-10-23 - The platform for customizing AI from enterprise data. [MindsDB integrates with DuckDB](https://docs.mindsdb.com/integrations/data-integrations/duckdb), making data from DuckDB accessible to a diverse range of AI/ML models.
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,032 | 🐛 30 | 🌐 Go | 📅 2026-10-28 - CLI tool to copy data between databases and SaaS sources, with DuckDB supported as both a source and a destination.
 * [manifold-sql (DuckDB for Java)](https://github.com/manifold-systems/manifold/blob/master/docs/articles/duckdb_info.md) ⭐ 2,765 | 🐛 112 | 🌐 Java | 📅 2026-10-28 - Use native DuckDB SQL of any complexity directly & type-safely in Java source with comprehensive IntelliJ support.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,790 | 🐛 66 | 🌐 Go | 📅 2026-10-27 - Data pipeline CLI that runs SQL and Python transformations with built-in quality checks, using DuckDB as one of its supported platforms.
-* [dbt-duckdb](https://github.com/jwills/dbt-duckdb) ⭐ 1,367 | 🐛 86 | 🌐 Python | 📅 2026-10-27 - DuckDB dbt adapter.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,791 | 🐛 68 | 🌐 Go | 📅 2026-10-28 - Data pipeline CLI that runs SQL and Python transformations with built-in quality checks, using DuckDB as one of its supported platforms.
+* [dbt-duckdb](https://github.com/jwills/dbt-duckdb) ⭐ 1,368 | 🐛 82 | 🌐 Python | 📅 2026-10-28 - DuckDB dbt adapter.
 * [SQLFlow](https://github.com/turbolytics/sql-flow) ⭐ 804 | 🐛 93 | 🌐 Go | 📅 2026-10-24 - Enables SQL-based stream processing, powered by DuckDB.
-* [metabase\_duckdb\_driver](https://github.com/MotherDuck-Open-Source/metabase_duckdb_driver) ⭐ 172 | 🐛 8 | 🌐 Clojure | 📅 2026-10-20 - Metabase DuckDB Driver shipped as 3rd party plugin.
-* [xlDuckDb](https://github.com/RusselWebber/xlDuckDb) ⭐ 170 | 🐛 0 | 🌐 C# | 📅 2026-10-01 - Excel addin to run DuckDB queries in Excel.
+* [metabase\_duckdb\_driver](https://github.com/MotherDuck-Open-Source/metabase_duckdb_driver) ⭐ 173 | 🐛 8 | 🌐 Clojure | 📅 2026-10-20 - Metabase DuckDB Driver shipped as 3rd party plugin.
+* [xlDuckDb](https://github.com/RusselWebber/xlDuckDb) ⭐ 171 | 🐛 0 | 🌐 C# | 📅 2026-10-01 - Excel addin to run DuckDB queries in Excel.
 * [kwack](https://github.com/rayokota/kwack) ⭐ 157 | 🐛 12 | 🌐 Java | 📅 2026-10-23 - In-Memory Analytics for Kafka using DuckDB.
-* [Sidemantic](https://github.com/sidequery/sidemantic) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2026-10-26 - A semantic layer with DuckDB integration.
-* [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2026-10-27 - Open-source semantic sidecar that compiles YAML semantic models to optimized SQL across 8 engines including DuckDB. Ships with an `ob-duckdb` driver, REST + Arrow Flight SQL + Postgres wire surfaces, and a baked-in DuckDB quickstart on Colab.
+* [Sidemantic](https://github.com/sidequery/sidemantic) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2026-10-26 - A semantic layer with DuckDB integration.
+* [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2026-10-28 - Open-source semantic sidecar that compiles YAML semantic models to optimized SQL across 8 engines including DuckDB. Ships with an `ob-duckdb` driver, REST + Arrow Flight SQL + Postgres wire surfaces, and a baked-in DuckDB quickstart on Colab.
 * [duckdb-power-query-connector](https://github.com/MotherDuck-Open-Source/duckdb-power-query-connector) ⭐ 90 | 🐛 5 | 🌐 Power Query | 📅 2026-10-08 - DuckDB Power Query Custom Connector.
 * [PSDuckDB](https://github.com/dfinke/PSDuckDB) ⭐ 65 | 🐛 2 | 🌐 PowerShell | 📅 2024-09-10 - A PowerShell module for DuckDB integration.
 * [nf-sqldb](https://github.com/nextflow-io/nf-sqldb) ⭐ 32 | 🐛 16 | 🌐 Groovy | 📅 2026-08-10 - This plugin provides support for interacting with SQL databases in Nextflow scripts.
@@ -456,7 +459,7 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 * [DuckDBExcelAddin](https://github.com/sonhn85/DuckDBExcelAddin) ⭐ 13 | 🐛 1 | 🌐 C | 📅 2026-10-23 - A native Microsoft Excel XLL add-in for querying Excel ranges with DuckDB SQL and parameter binding. Supports DuckDB 2.0.
 * [DuckDB VBA](https://github.com/EtienneLenoir/duckdb-vba) ⭐ 11 | 🐛 0 | 🌐 VBA | 📅 2026-06-11 - Excel/VBA integration for DuckDB using the native C API through a lightweight DLL bridge. Supports Range/Array ingestion, dictionary lookups, Parquet/CSV/JSON workflows, SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.
 * [Scherlok](https://github.com/rbmuller/scherlok) ⭐ 11 | 🐛 13 | 🌐 Python | 📅 2026-10-19 - Data quality monitoring CLI that profiles tables and detects anomalies (volume, freshness, schema drift, NULL rates, distributions) without configuration; DuckDB is one of its connectors and backs its built-in demo.
-* [omniload](https://github.com/panodata/omniload) ⭐ 5 | 🐛 48 | 🌐 Python | 📅 2026-10-27 - Polyglot data loader for ETL, warehousing and more, based on dlt. Supports 140+ source/destination adapters. Derived from ingestr v0 (MIT).
+* [omniload](https://github.com/panodata/omniload) ⭐ 5 | 🐛 48 | 🌐 Python | 📅 2026-10-28 - Polyglot data loader for ETL, warehousing and more, based on dlt. Supports 140+ source/destination adapters. Derived from ingestr v0 (MIT).
 * [data load tool - DuckDB destination](https://dlthub.com/docs/dlt-ecosystem/destinations/duckdb) - Extract and load data from APIs to DuckDB using dlt.
 * [target-duckdb](https://hub.meltano.com/loaders/target-duckdb/) - Load data to DuckDB based on Singer spec.
 * [Airbyte DuckDB destination](https://docs.airbyte.com/integrations/destinations/duckdb/) - Load data to DuckDB with Airbyte.
@@ -472,16 +475,16 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 ## Client-Server Setups
 
-* [AliSQL](https://github.com/alibaba/AliSQL) ⭐ 5,989 | 🐛 14 | 🌐 C++ | 📅 2026-10-16 - A MySQL branch originated from Alibaba Group. Integrates DuckDB as a native storage engine.
-* [pg\_duckdb](https://github.com/duckdb/pg_duckdb) ⭐ 3,276 | 🐛 148 | 🌐 C++ | 📅 2026-07-17 - DuckDB-powered PostgreSQL for high-performance apps & analytics.
+* [AliSQL](https://github.com/alibaba/AliSQL) ⭐ 5,990 | 🐛 13 | 🌐 C++ | 📅 2026-10-16 - A MySQL branch originated from Alibaba Group. Integrates DuckDB as a native storage engine.
+* [pg\_duckdb](https://github.com/duckdb/pg_duckdb) ⭐ 3,277 | 🐛 144 | 🌐 C++ | 📅 2026-10-28 - DuckDB-powered PostgreSQL for high-performance apps & analytics.
 * [pg\_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) ⭐ 2,012 | 🐛 15 | 🌐 Rust | 📅 2026-03-31 - A PostgreSQL extension that adds native column store tables with DuckDB.
-* [pg\_lake](https://github.com/snowflake-labs/pg_lake) ⭐ 1,665 | 🐛 127 | 🌐 Python | 📅 2026-10-27 - `pg_lake` integrates Iceberg and data lake files into Postgres. Uses DuckDB to execute queries.
+* [pg\_lake](https://github.com/snowflake-labs/pg_lake) ⭐ 1,665 | 🐛 129 | 🌐 Python | 📅 2026-10-28 - `pg_lake` integrates Iceberg and data lake files into Postgres. Uses DuckDB to execute queries.
 * [MyDuck Server](https://github.com/apecloud/myduckserver) ⭐ 594 | 🐛 43 | 🌐 Go | 📅 2026-09-19 - A server wrapping DuckDB with MySQL and PostgreSQL wire protocol support.
 * [pg\_analytics](https://github.com/paradedb/pg_analytics) ⚠️ Archived - PostgreSQL extension embedding DuckDB-in-PostgreSQL for fast on-disk and remote object storage analytics from Postgres. Built as a Foreign Data Wrapper with full query pushdown to DuckDB. Integrates easily with ParadeDB.
-* [GizmoSQL - Arrow Flight SQL Server](https://github.com/gizmodata/gizmosql) ⭐ 375 | 🐛 1 | 🌐 C++ | 📅 2026-10-27 - A C++ implementation of the [Arrow Flight SQL protocol](https://arrow.apache.org/docs/format/FlightSql.html) that runs in a client-server setup with DuckDB or SQLite as backends.
+* [GizmoSQL - Arrow Flight SQL Server](https://github.com/gizmodata/gizmosql) ⭐ 376 | 🐛 1 | 🌐 C++ | 📅 2026-10-27 - A C++ implementation of the [Arrow Flight SQL protocol](https://arrow.apache.org/docs/format/FlightSql.html) that runs in a client-server setup with DuckDB or SQLite as backends.
 * [Porter](https://github.com/TFMV/porter) ⭐ 151 | 🐛 5 | 🌐 Go | 📅 2026-09-02 - A Go-based implementation of a DuckDB Arrow Flight SQL Server.
-* [Hardcharger](https://github.com/gizmodata/hardcharger) ⭐ 22 | 🐛 5 | 🌐 C++ | 📅 2026-10-27 - An open-source DuckDB server using Warp SQL (HTTP and Apache Arrow), with authentication, concurrent sessions, and ADBC, JDBC, and JavaScript clients.
-* [SlackerDB](https://github.com/robotslacker/slackerdb) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2026-10-27 - Java-based service that exposes DuckDB over the PostgreSQL wire protocol.
+* [Hardcharger](https://github.com/gizmodata/hardcharger) ⭐ 22 | 🐛 4 | 🌐 C++ | 📅 2026-10-29 - An open-source DuckDB server using Warp SQL (HTTP and Apache Arrow), with authentication, concurrent sessions, and ADBC, JDBC, and JavaScript clients.
+* [SlackerDB](https://github.com/robotslacker/slackerdb) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2026-10-28 - Java-based service that exposes DuckDB over the PostgreSQL wire protocol.
 * [VillageSQL](https://github.com/villagesql/vsql-duckdb) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-10-22 - Aggregate Parquet, CSV and JSON in object storage from SQL, with DuckDB embedded in MySQL.
 * [Crunchy Data Warehouse](https://www.crunchydata.com/products/warehouse) - Fully managed DBaaS based in PostgreSQL integrated with DuckDB.
 * [MotherDuck](https://motherduck.com/) - A serverless cloud data warehouse powered by DuckDB.
@@ -495,11 +498,11 @@ DuckDB 2.0.0 was released on 2026-10-21: see the [announcement blog post](https:
 
 Official DuckDB extensions, which can installed via `INSTALL ⟨extension_name⟩`.
 
-* [`ducklake`](https://github.com/duckdb/ducklake) ⭐ 3,335 | 🐛 46 | 🌐 C++ | 📅 2026-10-27 - For DuckLake support.
-* [`iceberg`](https://github.com/duckdb/duckdb_iceberg) ⭐ 445 | 🐛 101 | 🌐 C++ | 📅 2026-10-27 - For reading Iceberg tables.
+* [`ducklake`](https://github.com/duckdb/ducklake) ⭐ 3,337 | 🐛 51 | 🌐 C++ | 📅 2026-10-28 - For DuckLake support.
+* [`iceberg`](https://github.com/duckdb/duckdb_iceberg) ⭐ 445 | 🐛 100 | 🌐 C++ | 📅 2026-10-28 - For reading Iceberg tables.
 * [`delta`](https://github.com/duckdb/duckdb_delta) ⭐ 234 | 🐛 57 | 🌐 C++ | 📅 2026-10-26 - For Delta Lake support.
-* [`azure`](https://github.com/duckdb/duckdb_azure) ⭐ 79 | 🐛 44 | 🌐 C++ | 📅 2026-10-20 - For using the Azure Blob storage.
-* [`aws`](https://github.com/duckdb/duckdb_aws) ⭐ 67 | 🐛 38 | 🌐 C++ | 📅 2026-10-27 - For handling AWS credentials.
+* [`azure`](https://github.com/duckdb/duckdb_azure) ⭐ 79 | 🐛 42 | 🌐 C++ | 📅 2026-10-28 - For using the Azure Blob storage.
+* [`aws`](https://github.com/duckdb/duckdb_aws) ⭐ 67 | 🐛 39 | 🌐 C++ | 📅 2026-10-28 - For handling AWS credentials.
 * [`arrow`](https://github.com/duckdb/arrow) ⭐ 49 | 🐛 3 | 🌐 C++ | 📅 2025-05-12 - A zero-copy data integration between Apache Arrow and DuckDB.
 * [`avro`](https://github.com/duckdb/duckdb-avro) ⭐ 35 | 🐛 12 | 🌐 C++ | 📅 2026-10-21 - For reading Avro files.
 * [`inet`](https://github.com/duckdb/duckdb_inet) ⭐ 13 | 🐛 10 | 🌐 C++ | 📅 2026-10-09 - For storing and handling IPv4 and IPv6 Internet addresses.
@@ -516,25 +519,25 @@ Official DuckDB extensions, which can installed via `INSTALL ⟨extension_name�
 
 Community-contributed DuckDB extensions, which can be installed via `INSTALL ⟨extension_name⟩ FROM community`.
 
-* [`duckpgq`](https://github.com/cwida/duckpgq-extension) ⭐ 506 | 🐛 34 | 🌐 C++ | 📅 2026-10-27 - Add supports for SQL/PGQ (Property Graph Queries) introduced in the SQL:2023 standard.
+* [`duckpgq`](https://github.com/cwida/duckpgq-extension) ⭐ 507 | 🐛 34 | 🌐 C++ | 📅 2026-10-28 - Add supports for SQL/PGQ (Property Graph Queries) introduced in the SQL:2023 standard.
 * [`gsheets`](https://github.com/evidence-dev/duckdb_gsheets) ⭐ 359 | 🐛 14 | 🌐 C++ | 📅 2026-02-21 - Read and write Google Sheets using SQL.
-* [`prql`](https://github.com/ywelsch/duckdb-prql) ⭐ 333 | 🐛 5 | 🌐 C++ | 📅 2026-05-28 - Run PRQL commands directly within DuckDB.
+* [`prql`](https://github.com/ywelsch/duckdb-prql) ⭐ 333 | 🐛 5 | 🌐 C++ | 📅 2026-10-28 - Run PRQL commands directly within DuckDB.
 * [`h3`](https://github.com/isaacbrodsky/h3-duckdb) ⭐ 254 | 🐛 17 | 🌐 C | 📅 2026-10-16 - Adds support for the H3 discrete global grid system.
 * [`bigquery`](https://github.com/hafenkran/duckdb-bigquery) ⭐ 173 | 🐛 5 | 🌐 C++ | 📅 2026-10-27 - Integrates DuckDB with Google BigQuery, allowing direct querying and management of BigQuery datasets.
 * [`duckherder`](https://github.com/dentiny/duckdb-distributed-execution) ⭐ 166 | 🐛 18 | 🌐 C++ | 📅 2026-10-24 - Distributed execution for DuckDB queries.
 * [`scrooge`](https://github.com/pdet/Scrooge-McDuck) ⭐ 163 | 🐛 1 | 🌐 C++ | 📅 2026-05-04 - A set of aggregation functions and data scanners on financial data.
 * [`cache_httpfs`](https://github.com/dentiny/duck-read-cache-fs) ⭐ 155 | 🐛 21 | 🌐 C++ | 📅 2026-10-26 - Adds a read caching layer to duckdb filesystem to improve query performance and reduce egress cost.
 * [`onager`](https://github.com/CogitatorTech/onager) ⭐ 152 | 🐛 5 | 🌐 Rust | 📅 2026-10-26 - A DuckDB extension for graph data analytics.
-* [`infera`](https://github.com/CogitatorTech/infera) ⭐ 137 | 🐛 6 | 🌐 Rust | 📅 2026-10-26 - A DuckDB extension for in-database inference.
-* [`dash`](https://github.com/gropaul/dash) ⭐ 113 | 🐛 1 | 🌐 C++ | 📅 2026-10-26 - Fully local data canvas and dashboarding app within DuckDB.
+* [`infera`](https://github.com/CogitatorTech/infera) ⭐ 137 | 🐛 7 | 🌐 Rust | 📅 2026-10-28 - A DuckDB extension for in-database inference.
+* [`dash`](https://github.com/gropaul/dash) ⭐ 113 | 🐛 2 | 🌐 C++ | 📅 2026-10-26 - Fully local data canvas and dashboarding app within DuckDB.
 * [`chsql`](https://github.com/lmangani/duckdb-extension-clickhouse-sql) ⭐ 94 | 🐛 2 | 🌐 C++ | 📅 2026-09-04 - ClickHouse SQL Dialect macros for DuckDB.
-* [`stats_duck`](https://github.com/KoliStat/the-stats-duck) ⭐ 60 | 🐛 31 | 🌐 C++ | 📅 2026-10-26 - Statistics for tabular and clinical data: descriptive tables (`table_one`), linear models with robust/clustered standard errors, meta-analysis, bootstrap, and a grammar-of-graphics `VISUALIZE` clause that turns queries into Vega-Lite charts.
-* [`yardstick`](https://github.com/sidequery/yardstick) ⭐ 59 | 🐛 2 | 🌐 Rust | 📅 2026-10-23 - Implements Measures in SQL paper as a DuckDB extension for centralized metric definitions / en embedded semantic layer.
+* [`stats_duck`](https://github.com/KoliStat/the-stats-duck) ⭐ 60 | 🐛 30 | 🌐 C++ | 📅 2026-10-28 - Statistics for tabular and clinical data: descriptive tables (`table_one`), linear models with robust/clustered standard errors, meta-analysis, bootstrap, and a grammar-of-graphics `VISUALIZE` clause that turns queries into Vega-Lite charts.
 * [`acp`](https://github.com/sidequery/duckdb-acp) ⚠️ Archived - Embeds AI agents such as Claude Code inside of DuckDB via Agent Client Protocol.
+* [`yardstick`](https://github.com/sidequery/yardstick) ⭐ 59 | 🐛 2 | 🌐 Rust | 📅 2026-10-23 - Implements Measures in SQL paper as a DuckDB extension for centralized metric definitions / en embedded semantic layer.
 * [`netquack`](https://github.com/hatamiarash7/duckdb-netquack) ⭐ 42 | 🐛 2 | 🌐 C++ | 📅 2026-10-24 - Parsing, extracting, and analyzing domains, URIs, and paths with ease.
 * [`3fs`](https://github.com/open3fs/duckdb-3fs) ⭐ 39 | 🐛 0 | 🌐 C++ | 📅 2025-05-16 - Integrates DuckDB with DeepSeek 3FS distributed file system.
 * [`hostfs`](https://github.com/gropaul/hostfs) ⭐ 33 | 🐛 1 | 🌐 C++ | 📅 2025-10-01 - Navigate and explore the local filesystem using SQL.
-* [`gpudb`](https://github.com/singhpratech/duckdbgpumetaldbram) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2026-09-22 - GPU-accelerated plain DuckDB SQL on Apple Silicon Metal and NVIDIA CUDA: GROUP BY, joins, filters and top-k run on the GPU when measured faster, with the same answers.
+* [`gpudb`](https://github.com/singhpratech/duckdbgpumetaldbram) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2026-10-29 - GPU-accelerated plain DuckDB SQL on Apple Silicon Metal and NVIDIA CUDA: GROUP BY, joins, filters and top-k run on the GPU when measured faster, with the same answers.
 * [`ulid`](https://github.com/Maxxen/duckdb_ulid) ⭐ 25 | 🐛 2 | 🌐 C++ | 📅 2024-07-09 - ULID data type for DuckDB. A ULID is similar to a UUID except that it also contains a timestamp component.
 * [`elasticsearch`](https://github.com/tlinhart/duckdb-elasticsearch) ⭐ 23 | 🐛 5 | 🌐 C++ | 📅 2026-04-29 - Query Elasticsearch indices directly using SQL.
 * [`gaggle`](https://github.com/CogitatorTech/gaggle) ⭐ 20 | 🐛 4 | 🌐 Rust | 📅 2026-10-26 - A DuckDB extension for working with Kaggle datasets.
@@ -543,7 +546,10 @@ Community-contributed DuckDB extensions, which can be installed via `INSTALL ⟨
 * [`curl_httpfs`](https://github.com/dentiny/duckdb-curl-filesystem) ⭐ 15 | 🐛 3 | 🌐 C++ | 📅 2026-10-22 - Enhanced HTTP file system with connection pooling, HTTP/2 support, and asynchronous I/O operations.
 * [`pst`](https://github.com/intellekthq/duckdb-pst) ⭐ 12 | 🐛 1 | 🌐 C++ | 📅 2026-10-26 - Read Microsoft PST files in-place with rich schemas for emails, contacts, appointments, tasks, and more.
 * [`cache_prewarm`](https://github.com/dentiny/duckdb-cache-prewarm) ⭐ 11 | 🐛 11 | 🌐 C++ | 📅 2026-10-22 - A Preloads table data blocks into the buffer pool or OS page cache, inspired by PostgreSQL's pg\_prewarm extension.
-* [`finetype`](https://github.com/meridian-online/finetype) ⭐ 6 | 🐛 2 | 🌐 Rust | 📅 2026-10-27 - Detects the semantic type of text columns and values (emails, dates, IP addresses, currency amounts) and reports the DuckDB type each can be cast to.
+* [`ml`](https://github.com/alitrack/duckdb-ml) ⭐ 11 | 🐛 1 | 🌐 Rust | 📅 2026-10-20 - Lightweight, columnar-native ML for DuckDB — train + inference, 34 algorithms, zero Python deps.
+* [`python_udf`](https://github.com/alitrack/duckdb-python) ⭐ 8 | 🐛 2 | 🌐 Rust | 📅 2026-10-19 - Embedded CPython UDFs for DuckDB — py\_eval, py\_agg, py\_scan, py\_register, py\_call, py\_map.
+* [`finetype`](https://github.com/meridian-online/finetype) ⭐ 6 | 🐛 3 | 🌐 Rust | 📅 2026-10-28 - Detects the semantic type of text columns and values (emails, dates, IP addresses, currency amounts) and reports the DuckDB type each can be cast to.
+* [`orc`](https://github.com/alitrack/duckdb_orc) ⭐ 4 | 🐛 1 | 🌐 Rust | 📅 2026-10-10 - Reads Apache ORC files in pure Rust — all primitives, struct, list, map types and every compression codec (Zlib, Snappy, LZO, LZ4, ZSTD).
 * [`pfc`](https://github.com/ImpossibleForge/pfc-duckdb) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-05-19 - Read block-indexed PFC-compressed JSONL logs with timestamp filtering — 25% smaller than gzip with minimal S3 egress.
 * [`gridpin_ext`](https://github.com/gridpin/duckdb-gridpin) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-10-24 - Offline forward and reverse geocoding in SQL from a local per-country data file built from Overture Maps data.
 * [`a5`](https://query.farm/products/extensions/a5/) - Pentagon-based geospatial indexing with the A5 global grid.
@@ -581,9 +587,9 @@ Community-contributed DuckDB extensions, which can be installed via `INSTALL ⟨
 ### Other Extensions
 
 * [Kùzu](https://github.com/kuzudb/kuzu/tree/master/extension/duckdb) ⚠️ Archived - Scan DuckDB tables in Kùzu, an embeddable property graph database management system.
-* [duckdb\_engine](https://github.com/Mause/duckdb_engine) ⭐ 497 | 🐛 100 | 🌐 Python | 📅 2026-10-26 - SQLAlchemy driver for DuckDB.
-* [FlockMTL](https://github.com/dsg-polymtl/flockmtl) ⭐ 360 | 🐛 28 | 🌐 C++ | 📅 2026-10-26 - Integrate language model (LLM) capabilities directly into your queries and workflows.
-* [UC Catalog Extension](https://github.com/duckdb/uc_catalog) ⭐ 110 | 🐛 37 | 🌐 C++ | 📅 2026-10-26 - Proof-of-concept extension combining the `delta` extension with Unity Catalog.
+* [duckdb\_engine](https://github.com/Mause/duckdb_engine) ⭐ 497 | 🐛 99 | 🌐 Python | 📅 2026-10-28 - SQLAlchemy driver for DuckDB.
+* [FlockMTL](https://github.com/dsg-polymtl/flockmtl) ⭐ 362 | 🐛 28 | 🌐 C++ | 📅 2026-10-26 - Integrate language model (LLM) capabilities directly into your queries and workflows.
+* [UC Catalog Extension](https://github.com/duckdb/uc_catalog) ⭐ 111 | 🐛 37 | 🌐 C++ | 📅 2026-10-26 - Proof-of-concept extension combining the `delta` extension with Unity Catalog.
 * [duckdb-pytables](https://github.com/MarkRoddy/duckdb-pytables) ⭐ 92 | 🐛 7 | 🌐 C++ | 📅 2024-05-03 - DuckDB extension to allow running SQL on arbitrary data sources.
 * [ODBC Scanner DuckDB Extension](https://github.com/rupurt/odbc-scanner-duckdb-extension) ⭐ 88 | 🐛 21 | 🌐 C++ | 📅 2023-09-04 - DuckDB extension to read data directly from databases supporting the ODBC interface.
 * [go-duckfs](https://github.com/firetiger-oss/go-duckfs) ⭐ 66 | 🐛 1 | 🌐 Go | 📅 2026-07-09 - A Go library that mounts `io/fs` file systems as DuckDB virtual file systems, sandboxing all I/O through the Go runtime.
@@ -602,7 +608,7 @@ Community-contributed DuckDB extensions, which can be installed via `INSTALL ⟨
 
 ### Extension Statistics
 
-* [DuckDB Extension Radar](https://github.com/mehd-io/duckdb-extension-radar) ⭐ 118 | 🐛 2 | 🌐 Python | 📅 2026-10-27 - Repository that contains DuckDB extensions on GitHub. Refreshed daily.
+* [DuckDB Extension Radar](https://github.com/mehd-io/duckdb-extension-radar) ⭐ 118 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Repository that contains DuckDB extensions on GitHub. Refreshed daily.
 
 ## Tutorials
 
@@ -662,6 +668,7 @@ Community-contributed DuckDB extensions, which can be installed via `INSTALL ⟨
 * [SwanLake](https://www.wangfenjin.com/posts/swanlake-en/) - An Arrow Flight SQL Datalake Service Built on DuckDB + DuckLake
 * [DuckDB-Wasm on a Plain Static Host — Without Breaking AdSense](https://csvtodashboard.com/duckdb-wasm-static-host) - Why a static site ships the single-threaded build: SharedArrayBuffer, COOP/COEP, and the cross-origin isolation tradeoff.
 * [Building duckdb-pst](https://intellekt.fyi/2026/02/03/the-data-warehouse-in-your-email-archive-teaching-duckdb-to-speak-outlook/) - How to go from 0 to a production-ready DuckDB extension for Outlook PSTs, including table functions, MAPI schema serialization, projection/statistics pushdown, concurrent planning, and late materialization.
+* [How to Query Reservoir's Hyperliquid Data](https://hydromancer.xyz/blog/exploring-reservoir) - Using DuckDB's httpfs extension and `read_parquet` to query Hyperliquid fills, candles and order book snapshots stored as Parquet in a requester-pays S3 bucket, pulling only the columns and time ranges a query needs.
 
 ### Books
 
@@ -675,4 +682,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
